@@ -2,6 +2,7 @@
 (1855 - 1912)
 
 ## Vita
+
 Nasce nel `1855` in Romagna in una famiglia agiata.
 
 A sette anni entra nel collegio dei padri scolopi dal quale esce nel 1871 per frequentare la seconda liceo a Rimini e la terza a Firenze, sempre presso gli scolopi.
@@ -35,3 +36,20 @@ Pubblica nell'aprile del `1903` i *`Canti di Castelvecchio`*.
 Tra il `1904` e il `1911` pubblica opere di attualità e carattere patriottico.
 
 Muore nel `1912` di cirrosi epatica, viene sepolto nella cappella che aveva fatto costruire nella sua casa.
+
+## Stile
+
+Fa uso di un `linguaggio tecnico`, ogni cosa viene chiamata con il suo nome esatto, a questo proposito Pascoli fa uso di `termini dialettali`: se si vuole infatti parlare del mondo contadino in modo appropriato è necessario farlo con le parole del dialetto contadino. In uno dei *`Poemetti`* intitolato *`Italy`*, fa uso di parole e frasi inglesi, ma soprattutto a parole in un `inglese italianizzato`. Inoltre usa moltissimo anche le `onomatopee`, prestanto attenzione alla dimensione fonica della lingua.
+
+## Opere
+
+Pascoli è un autore che fino ai quarant'anni scrive molto poco ed è poco noto. È solo nei successivi vent'anni che recupera componendo molte opere.
+
+### *Myricae*
+(1891)
+
+L'origine del titolo è da ricercarsi in Virgilio, è infatti così che lui chiama i suoi *carmi bucolici*, ossia poesie i cui personaggi erano semplici pastori.
+
+Le poesie descrivono `quadri campestri, paesani, familiari` ma questa tranquillità viene turbata dal `tema dei lutti familiari`. Diventa sempre più un `libro familiare e personale` in cui è presente la sua `angoscia per il suo destino e quello delle sorelle`, che compaiono più volte come personaggi.
+
+In queste poesie Pascoli fa più volte uso del `fonosimbolismo` e delle tecniche espressive del `simbolismo europeo`, come la metafora, l'analogia e la sinestesia.
