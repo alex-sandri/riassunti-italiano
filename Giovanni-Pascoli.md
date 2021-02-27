@@ -37,7 +37,7 @@ Muore nel `1912` di cirrosi epatica, viene sepolto nella cappella che aveva fatt
 
 ## Stile
 
-Fa uso di un `linguaggio tecnico`, ogni cosa viene chiamata con il suo nome esatto, a questo proposito Pascoli fa uso di `termini dialettali`: se si vuole infatti parlare del mondo contadino in modo appropriato è necessario farlo con le parole del dialetto contadino. In uno dei *`Poemetti`* intitolato *`Italy`*, fa uso di parole e frasi inglesi, ma soprattutto a parole in un `inglese italianizzato`. Inoltre usa moltissimo anche le `onomatopee`, prestanto attenzione alla dimensione fonica della lingua.
+Fa uso di un `linguaggio tecnico`, ogni cosa viene chiamata con il suo nome esatto, a questo proposito Pascoli fa uso di `termini dialettali`: se si vuole infatti parlare del mondo contadino in modo appropriato è necessario farlo con le parole del dialetto contadino. In uno dei *`Poemetti`* intitolato *`Italy`*, fa uso di parole e frasi inglesi, ma soprattutto di parole in un `inglese italianizzato`. Inoltre usa moltissimo anche le `onomatopee`, prestanto attenzione alla dimensione fonica della lingua.
 
 ## Opere
 
