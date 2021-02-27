@@ -31,7 +31,7 @@ Nell'ottobre dello stesso anno viene nominato professore di Letteratura latina a
 
 Pubblica nell'aprile del `1903` i *`Canti di Castelvecchio`*.
 
-Tra il `1904` e il `1911` pubblica opere di attualità e carattere patriottico.
+Tra il `1904` e il `1911` pubblica opere di attualità e di carattere patriottico.
 
 Muore nel `1912` di cirrosi epatica, viene sepolto nella cappella che aveva fatto costruire nella sua casa.
 
