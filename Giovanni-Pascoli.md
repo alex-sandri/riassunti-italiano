@@ -15,21 +15,21 @@ Le sue poesie, seppure in modo limitato, cominciano a comparire sulle riviste a 
 
 Nel `1885` porta le due sorelle Ida e Maria a vivere con sé in quello che chiama il `nido`, cioè dove i figli superstiti si ritrovano per vivere insieme. Nel `1889` si innamora di una ragazza che vuole sposare, contemporaneamente anche Ida si innamora e Pascoli per non perdere la sorella, stringe un patto di fedeltà al nido interrompendo la sua relazione e Ida fa altrettanto.
 
-Nel `1890` vengono pubblicate nove poesie che, dal `1891`, faranno parte della prima raccolta intitolata *[`Myricae`](#myricae)*, che farà vincere a Pascoli vari premi internazionali di poesia latina.
+Nel `1890` vengono pubblicate nove poesie che, dal `1891`, faranno parte della prima raccolta intitolata *[`Myricae`][myricae]*, che farà vincere a Pascoli vari premi internazionali di poesia latina.
 
-Il nome di Pascoli acquista notorietà a livello nazionale nel `1893` dopo la recensione che [`Gabriele D'Annunzio`](Gabriele-D-Annunzio.md) aveva fatto sul giornale `Il Mattino`.
+Il nome di Pascoli acquista notorietà a livello nazionale nel `1893` dopo la recensione che [`Gabriele D'Annunzio`][gabriele-d-annunzio] aveva fatto sul giornale `Il Mattino`.
 
-Viene, nel `1895`, invitato a collaborare con una nuova rivista diretta da [`D'Annunzio`](Gabriele-D-Annunzio.md), chiamata `Il Convito`.
+Viene, nel `1895`, invitato a collaborare con una nuova rivista diretta da [`D'Annunzio`][gabriele-d-annunzio], chiamata `Il Convito`.
 
 Il fidanzamento, e il successivo matrimonio, di sua sorella Ida gli provocano un dolore indicibile, sarà costretto, dopo aver rinunciato a costruirsi una famiglia, averle dato una casa in cui vivere e averla mantenuta con il suo magro stipendio, a provvedere alla dote. Pascoli infatti non si presenterà, il giorno delle nozze, né in chiesa né al rinfresco. Con la sorella rimanente ora sente su di sé la responsabilità del padre verso la figlia, non può abbandonarla.
 
 I due fratelli si spostano a `Castelvecchio`, in Garfagnana (Lucca). Nello stesso periodo Pascoli viene nominato professore di Grammatica greca e latina all'università di Bologna. In primavera comincia il suo ultimo tentativo di farsi una vita propria, che fallirà dopo appena qualche mese.
 
-Nel `1897` pubblica i *[`Poemetti`](#poemetti)*, la sua seconda raccolta poetica.
+Nel `1897` pubblica i *[`Poemetti`][poemetti]*, la sua seconda raccolta poetica.
 
 Nell'ottobre dello stesso anno viene nominato professore di Letteratura latina a Messina, dove si trasferirà e vi rimarrà fino al `1902`. Pubblica nel `1898` il primo volume di saggistica dantesca intitolato *`Minerva Oscura`*.
 
-Pubblica nell'aprile del `1903` i *`Canti di Castelvecchio`*.
+Pubblica nell'aprile del `1903` i *[`Canti di Castelvecchio`][canti-di-castelvecchio]*.
 
 Tra il `1904` e il `1911` pubblica opere di attualità e di carattere patriottico.
 
@@ -61,3 +61,16 @@ Questi sono una raccolta di `poesie narrative di argomento campestre`, ossia poe
 
 Una parte importante dei *Poemetti* è costituita dalle vicende familiari delle due sorelle Rosa e Viola e dall'amore di Rosa per il cacciatore Rigo. In queste vicende si può notare la `matrice autobiografica`: Rosa è Ida, la sorella che abbandona il nido per amore, mentre Viola è Maria, la sorella abbandonata.\
 Ma al di là di questa "saga familiare" nei *Poemetti* è presente una grande varietà tematica, in cui `Pascoli racconta di sé`, ma non lo fa da protagonista bensì `da testimone`.
+
+### *Canti di Castelvecchio*
+(1903)
+
+In questi prevale il tema campestre, con l'attenzione per le cose umili e quotidiane.\
+Dal punto di vista dei contenuti viene accentuata la presenza dei sogni, delle tradizioni folcloriche e dei presagi, tutti elementi riguardanti la `parte irrazionale dell'uomo`. Più frequente è anche il ricorso alla `dimensione simbolica`, un legame tra il significato letterale e uno a livello esistenziale o filosofico.
+
+I *Canti di Castelvecchio* diventano l'apice dell'`ossessione di Pascoli per la tragedia familiare`, dovuta all'insoddisfazione per la vita con le sorelle e per il matrimonio di Ida.
+
+[gabriele-d-annunzio]: Gabriele-D-Annunzio.md
+[myricae]: #myricae
+[poemetti]: #poemetti
+[canti-di-castelvecchio]: #canti-di-castelvecchio
