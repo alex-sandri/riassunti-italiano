@@ -27,3 +27,11 @@ I due fratelli si spostano a `Castelvecchio`, in Garfagnana (Lucca). Nello stess
 Nel `1897` pubblica i *`Poemetti`*, la sua seconda raccolta poetica, costituita da poesie di argomento campestre. Questa raccolta verrà riorganizzata e divisa in:
 - *`Primi Poemetti`*: `1904`
 - *`Nuovi Poemetti`*: `1909`
+
+Nell'ottobre dello stesso anno viene nominato professore di Letteratura latina a Messina, dove si trasferirà e vi rimarrà fino al `1902`. Pubblica nel `1898` il primo volume di saggistica dantesca intitolato *`Minerva Oscura`*.
+
+Pubblica nell'aprile del `1903` i *`Canti di Castelvecchio`*.
+
+Tra il `1904` e il `1911` pubblica opere di attualità e carattere patriottico.
+
+Muore nel `1912` di cirrosi epatica, viene sepolto nella cappella che aveva fatto costruire nella sua casa.
