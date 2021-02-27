@@ -15,7 +15,7 @@ Le sue poesie, seppure in modo limitato, cominciano a comparire sulle riviste a 
 
 Nel `1885` porta le due sorelle Ida e Maria a vivere con sé in quello che chiama il `nido`, cioè dove i figli superstiti si ritrovano per vivere insieme. Nel `1889` si innamora di una ragazza che vuole sposare, contemporaneamente anche Ida si innamora e Pascoli per non perdere la sorella, stringe un patto di fedeltà al nido interrompendo la sua relazione e Ida fa altrettanto.
 
-Nel `1890` vengono pubblicate nove poesie che, dal `1891`, faranno parte della prima raccolta intitolata *`Myricae`*, che farà vincere a Pascoli vari premi internazionali di poesia latina.
+Nel `1890` vengono pubblicate nove poesie che, dal `1891`, faranno parte della prima raccolta intitolata *[`Myricae`](#myricae)*, che farà vincere a Pascoli vari premi internazionali di poesia latina.
 
 Il nome di Pascoli acquista notorietà a livello nazionale nel `1893` dopo la recensione che [`Gabriele D'Annunzio`](Gabriele-D-Annunzio.md) aveva fatto sul giornale `Il Mattino`.
 
