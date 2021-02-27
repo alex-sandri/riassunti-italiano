@@ -36,6 +36,7 @@ D'Annunzio favorevole all'entrata in guerra dell'Italia, quando scoppia si arruo
 Una volta guarito torna al fronte e partecipa a due imprese militari che gli valgono una `fama enorme`:
 - la *beffa di Buccari*
 - il *volo su Vienna*
+
 Alla fine della guerra ritiene l'esito una `vittoria mutilata`, in quanto il trattato di pace assegna l'Istria e la Dalmazia alla Jugoslavia. Interviene occupando la città di Fiume, dove fonda lo stato libero del Carnaro, se ne proclama Duce e collabora alla scrittura della sua costituzione. Tiene in assedio la città per un anno.
 
 Dal `1921`, anno in cui esce il *`Notturno`* si ritira dalla vita pubblica e si trasferisce nella villa Cargnacco, ribattezzata `il Vittoriale degli Italiani`.\
