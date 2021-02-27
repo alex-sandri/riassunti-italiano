@@ -25,9 +25,7 @@ Il fidanzamento, e il successivo matrimonio, di sua sorella Ida gli provocano un
 
 I due fratelli si spostano a `Castelvecchio`, in Garfagnana (Lucca). Nello stesso periodo Pascoli viene nominato professore di Grammatica greca e latina all'università di Bologna. In primavera comincia il suo ultimo tentativo di farsi una vita propria, che fallirà dopo appena qualche mese.
 
-Nel `1897` pubblica i *`Poemetti`*, la sua seconda raccolta poetica, costituita da poesie di argomento campestre. Questa raccolta verrà riorganizzata e divisa in:
-- *`Primi Poemetti`*: `1904`
-- *`Nuovi Poemetti`*: `1909`
+Nel `1897` pubblica i *[`Poemetti`](#poemetti)*, la sua seconda raccolta poetica.
 
 Nell'ottobre dello stesso anno viene nominato professore di Letteratura latina a Messina, dove si trasferirà e vi rimarrà fino al `1902`. Pubblica nel `1898` il primo volume di saggistica dantesca intitolato *`Minerva Oscura`*.
 
@@ -53,3 +51,13 @@ L'origine del titolo è da ricercarsi in Virgilio, è infatti così che lui chia
 Le poesie descrivono `quadri campestri, paesani, familiari` ma questa tranquillità viene turbata dal `tema dei lutti familiari`. Diventa sempre più un `libro familiare e personale` in cui è presente la sua `angoscia per il suo destino e quello delle sorelle`, che compaiono più volte come personaggi.
 
 In queste poesie Pascoli fa più volte uso del `fonosimbolismo` e delle tecniche espressive del `simbolismo europeo`, come la metafora, l'analogia e la sinestesia.
+
+### *Poemetti*
+(1897)
+
+Questi sono una raccolta di `poesie narrative di argomento campestre`, ossia poesie che raccontano una storia. Questa raccolta verrà riorganizzata e divisa in:
+- *`Primi Poemetti`*: `1904`
+- *`Nuovi Poemetti`*: `1909`
+
+Una parte importante dei *Poemetti* è costituita dalle vicende familiari delle due sorelle Rosa e Viola e dall'amore di Rosa per il cacciatore Rigo. In queste vicende si può notare la `matrice autobiografica`: Rosa è Ida, la sorella che abbandona il nido per amore, mentre Viola è Maria, la sorella abbandonata.\
+Ma al di là di questa "saga familiare" nei *Poemetti* è presente una grande varietà tematica, in cui `Pascoli racconta di sé`, ma non lo fa da protagonista bensì `da testimone`.
