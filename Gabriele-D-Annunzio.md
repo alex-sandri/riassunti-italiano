@@ -30,4 +30,17 @@ Nel `1903` pubblica i primi tre libri del ciclo poetico delle *`Laudi`*:
 - *`Elettra`*
 - *`Alcyone`*
 
-Nel `1910` pubblica il suo ultimo romanzo *Forse che sì forse che no*.
+Nel `1910` pubblica il suo ultimo romanzo *Forse che sì forse che no*. Nello stesso anno fugge in Francia per non affrontare i creditori, dato il suo stile di vita D'Annunzio non fatica a contrarre debiti.
+
+D'Annunzio favorevole all'entrata in guerra dell'Italia, quando scoppia si arruola volontario come tenente. Questo però gli costò la perdita dell'occhio destro. Visse perciò un mese immobile e al buio.\
+Una volta guarito torna al fronte e partecipa a due imprese militari che gli valgono una `fama enorme`:
+- la *beffa di Buccari*
+- il *volo su Vienna*
+Alla fine della guerra ritiene l'esito una `vittoria mutilata`, in quanto il trattato di pace assegna l'Istria e la Dalmazia alla Jugoslavia. Interviene occupando la città di Fiume, dove fonda lo stato libero del Carnaro, se ne proclama Duce e collabora alla scrittura della sua costituzione. Tiene in assedio la città per un anno.
+
+Dal `1921`, anno in cui esce il *`Notturno`* si ritira dalla vita pubblica e si trasferisce nella villa Cargnacco, ribattezzata `il Vittoriale degli Italiani`.\
+Il governo gli elargisce grandi somme di denaro per trasformare la villa Cargnacco nel Vittoriale, che lo Stato erediterà dopo la sua morte.
+
+Prova a combattere la vecchiaia che avanza attraverso il sesso e la cocaina. È un entusiasta sostenitore della guerra di Etiopia ma sconsiglia più volte a Mussolini di allearsi con Hitler.
+
+Muore nel `1938` per emorragia cerebrale. Viene sepolto al Vittoriale in una tomba posta su quattro alte colonne, in modo che tutti debbano alzare la testa per guardarla.
