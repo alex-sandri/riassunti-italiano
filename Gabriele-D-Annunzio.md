@@ -45,3 +45,19 @@ Il governo gli elargisce grandi somme di denaro per trasformare la villa Cargnac
 Prova a combattere la vecchiaia che avanza attraverso il sesso e la cocaina. È un entusiasta sostenitore della guerra di Etiopia ma sconsiglia più volte a Mussolini di allearsi con Hitler.
 
 Muore nel `1938` per emorragia cerebrale. Viene sepolto al Vittoriale in una tomba posta su quattro alte colonne, in modo che tutti debbano alzare la testa per guardarla.
+
+## Il personaggio
+
+D'Annunzio fu un uomo fuori dal comune, volle infatti creare il `mito di se stesso` e ci riuscì, infatti la sua ultima dimora, il Vittoriale, fu arredato come un museo autocelebrativo.\
+Viveva di quanto guadagnava dai suoi articoli giornalistici, aveva quindi una `necessità di vendere`, riuscì in questo grazie al suo estremo esibizionismo.
+
+Volle anche essere un *elegante playboy*, che frequentava donne celebri e viveva in dimore sontuose, fu quindi un `esteta`, cioè devoto alla causa del bello e del piacere, e un *`dandy`*, cioè elegante, raffinato, abituato al lusso.\
+Questo non deve però sminuire le capacità letterarie di d'Annunzio, fu anzi uno dei più grandi scrittori a livello europeo di quel tempo.
+
+## D'Annunzio poeta
+
+La poesia di d'Annunzio è fortemente ispirata a quella di Carducci, da cui eredita la `metrica barbara`, cioè una metrica che vuole imitare quella greco-latina.\
+I temi più frequenti nella sua poesia sono:
+- le `descrizioni della natura`
+- una `vitalità positiva`
+- una `sensualità esplicita`
