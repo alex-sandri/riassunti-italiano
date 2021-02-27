@@ -70,6 +70,18 @@ Dal punto di vista dei contenuti viene accentuata la presenza dei sogni, delle t
 
 I *Canti di Castelvecchio* diventano l'apice dell'`ossessione di Pascoli per la tragedia familiare`, dovuta all'insoddisfazione per la vita con le sorelle e per il matrimonio di Ida.
 
+### *Il fanciullino*
+(1907)
+
+*Il fanciullino* è composto da venti capitoli ed è il più importante scritto pascoliano di `teoria poetica`.\
+Il nucleo di questa opera è il fanciullino che non cresce e rimane in noi anche da adulti, che continua a comunicarci sensazioni ed emozioni. Ma noi non lo ascoltiamo in quanto impegnati ad affrontare le difficoltà della vita, colui che riesce ancora ad ascoltarlo con attenzione è invece il poeta.
+
+Secondo Pascoli la poesia non ha una utilità pratica, ma ha una `utilità morale e sociale`. La poesia spinge gli uomini a essere contenti di ciò che hanno, a moderare i desideri e i sentimenti.
+
+Per Pascoli *il poeta è colui che esprime la parola che tutti avevano sulle labbra e che nessuno avrebbe detta*.
+
+Pascoli non esclude, come spesso si ripete erroneamente, la `poesia storica e civile`, la ammette a patto *che sia un momento che tutti intorno a lui (ndr: il poeta) ci pensino*.
+
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 [myricae]: #myricae
 [poemetti]: #poemetti
