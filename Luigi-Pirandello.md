@@ -39,6 +39,19 @@ Pirandello si confronta anche con la `crisi del teatro` dovuta all'ascesa del `c
 ### *Il fu Mattia Pascal*
 (1904)
 
+### *Novelle per un anno*
+(1922)
+
+Pirandello scrive novelle nel corso di più di quarant'anni di carriera, pubblicate principalmente per interesse economico. Nel `1922` decide di voler raccogliere le sue novelle, dapprima in un volume unico, poi su suggerimento dell'editore in ventiquattro volumi, ne verranno pubblicati però solo quindici.\
+Si passa dai primi racconti a tema sentimentale agli ultimi surrealistici e grotteschi.
+
+Nonostante le differenze in temi si possono comunque riconoscere delle costanti:
+- I racconti cominciano `in medias res`, cioè quando tutti gli avvenimenti decisivi per i personaggi sono già avvenuti, vengono recuperati tramite `veloci analessi` (*flashback*)
+- Straordinaria `varietà di ambientazioni geografiche e collocazioni sociali`: si va dall'alta borghesia ai contadini, dalla Sicilia alla Germania
+- I personaggi sono ben `caratterizzati fisicamente` e sono tutti degli `sconfitti`, hanno un destino ormai segnato
+- La vita nel complesso è sempre una `tragedia`, ma nei dettagli diventa una `commedia`
+- Utilizza il `discorso indiretto libero`, ma a differenza dei narratori veristi in Pirandello `la voce del personaggio e quella del narratore si fondono perfettamente` e il narratore si identifica completamente con il suo personaggio
+
 ### *Uno, nessuno e centomila*
 (1926)
 
