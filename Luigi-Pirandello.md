@@ -19,3 +19,7 @@ Due anni dopo va in scena l'opera *Sei personaggi in cerca d'autore*: un'`opera 
 La vita di Pirandello è ora cambiata radicalmente, non più vincolato alla cura della moglie e con i figli ormai grandi, viaggia in tutta Europa e anche in America per promuovere le sue opere. Nonostante sia impegnato con il teatro continua a scrivere e pubblica altri due romanzi:
 - *`Quaderni di Serafino Gubbio operatore`* (1925)
 - *`Uno, nessuno e centomila`* (1926)
+
+Nel `1924` Pirandello aderisce al fascismo, e per quanto sia consapevole della brutalità e volgarità di Mussolini, rimane fino alla fine convinto che sia l'unica alternativa alla corruzione postunitaria.\
+Grazie all'appoggio del governo fascista fonda una sua compagnia teatrale chiamata `Compagnia del Teatro d'Arte`.\
+Dopo cinque anni che la attrice `Marta Abba` aveva lavorato per lui, questa lo lascia definitivamente per andare in America. Pirandello allora ripiomba nella depressione: la sua compagnia venne chiusa a causa dei costi eccessivi, abbandonato dalla donna della sua vita, con i figli lontani, continua comunque a promuovere le sue opere fino alla sua `morte per polmonite` avvenuta verso la fine del `1936`.
