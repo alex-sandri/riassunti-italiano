@@ -16,7 +16,7 @@ Dopo il diploma si trasferisce a `Roma` dove scrive sui giornali per mantenersi.
 
 Nel `1883` si sposa con Maria Hardouin, ma D'Annunzio non era fatto né per la monogamia, né per la responsabilità di padre.
 
-Nel `1889` esce il suo primo romanzo *`Il piacere`*.
+Nel `1889` esce il suo primo romanzo *[`Il piacere`][il-piacere]*.
 
 Dopo aver affrontato un processo per adulterio, le sue difficoltà finanziarie già aggravate dai debiti del padre lo costrinsero a scrivere di più. Essendo lui `informatissimo` e dotato di una `vasta cultura letteraria` tenta un `adattamento italiano della narrativa russa`, in quel periodo molto apprezzata in Francia.
 
@@ -71,7 +71,7 @@ Le *Laudi* dovevano essere composte da sette libri ma vennero scritti soltanto i
 Le prime opere di d'Annunzio sono a `sfondo locale`, ispirate quindi dalla `moda verista`, diffusasi grazie [`Giovanni Verga`][giovanni-verga].\
 In questo primo periodo comincia a svilupparsi la sua vocazione per lo `scavo psicologico` e la `curiosità per l'abnorme, il patologico, il morboso`, derivata dalla narrativa francese.
 
-Nel `1889` esce *`Il piacere`*, che viene definito il romanzo italiano più notevole dopo *I promessi sposi*. Le tecniche narrative inaugurate in questo romanzo torneranno anche nei successivi.
+Nel `1889` esce *[`Il piacere`][il-piacere]*, che viene definito il romanzo italiano più notevole dopo *I promessi sposi*. Le tecniche narrative inaugurate in questo romanzo torneranno anche nei successivi.
 
 I romanzi di d'Annunzio hanno una trama povera di eventi, in quanto preferisce fare uno `studio di carattere`, raffigurando un uomo e le sue opinioni (coincidenti per buona parte con quelle dell'autore).
 
@@ -82,4 +82,12 @@ I suoi romanzi sono narrati `attraverso gli occhi del protagonista`, talvolta ce
 
 Altra caratteristica dei romanzi, ma anche di tutta la sua produzione letteraria, è l'utilizzo di una `lingua colta`, una lingua piena di *toscanismi*, *latinismi*, *arcaismi* e *tecnicismi*.
 
+## Opere
+
+### *Il piacere*
+(1889)
+
+Il protagonista è `Andrea Sperelli`, un *dandy* stabilitosi a Roma che si innamora di una donna, Elena Muti, che scomparirà misteriosamente. Allora lui si dedica al piacere, al sesso, seducendo una donna dopo l'altra senza però dimenticare la prima. Elena tornata a Roma ora è sposata e Sperelli ora desidererebbe una donna che unisse lei e il suo nuovo amore, Maria. Questa riceve da Sperelli una ultima visita da Sperelli durante la quale però si lascia sfuggire il nome di Elena. Dopo la fuga di Maria, Sperelli si aggira per il suo palazzo dove prova un *stanchezza così vacua e disperata che quasi pareva un bisogno fisico di morire*.
+
 [giovanni-verga]: Giovanni-Verga.md
+[il-piacere]: #il-piacere
