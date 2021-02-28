@@ -51,6 +51,8 @@ Pirandello si confronta anche con la `crisi del teatro` dovuta all'ascesa del `c
 ### *Il fu Mattia Pascal*
 (1904)
 
+Mattia Pascal, dopo aver assistito a tante tragedie familiari e aver perso le sue proprietà che finirono in mano all'amministratore Malagna, decide di fuggire e, senza sapere come, si ritrova a Montecarlo, dove vince al gioco una somma considerevole. Decide quindi di crearsi una nuova vita sotto il nome di Adriano Meis. Dopo aver girato l'Europa si stanca della vita nomade e si ferma quindi a Roma, dove si caccia in altri guai. Esce di nuovo di scena fingendo un suicidio e, riassunta la sua vecchia identità, ritorna al suo paese, dove si chiude nella biblioteca della casa di sua moglie e scrive le sue memorie in una sorta di esilio volontario.
+
 ### *Novelle per un anno*
 (1922)
 
