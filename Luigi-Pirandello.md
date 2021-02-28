@@ -24,6 +24,18 @@ Nel `1924` Pirandello aderisce al fascismo, e per quanto sia consapevole della b
 Grazie all'appoggio del governo fascista fonda una sua compagnia teatrale chiamata `Compagnia del Teatro d'Arte`.\
 Dopo cinque anni che la attrice `Marta Abba` aveva lavorato per lui, questa lo lascia definitivamente per andare in America. Pirandello allora ripiomba nella depressione: la sua compagnia venne chiusa a causa dei costi eccessivi, abbandonato dalla donna della sua vita, con i figli lontani, continua comunque a promuovere le sue opere fino alla sua `morte per polmonite` avvenuta verso la fine del `1936`.
 
+## Pirandello romanziere
+
+Nell'arco della sua carriera Pirandello ha scritto `sette romanzi` molto diversi tra loro, si possono comunque trovare degli elementi in comune tra loro:
+- `La considerazione negativa dei rapporti e dei legami sociali`
+- `La crisi dell'identità individuale`
+- `La critica e la corrosione del genere romanzesco`: All'inizio del Novecento le grandi forme narrative ottocentesche entrano in crisi
+- `La narrazione umoristica`:
+  - Disarticolazione della trama
+  - Finali paradossali o inconcludenti
+  - Scelta di situazioni bizzarre o grottesche
+  - Prevalenza dell'elemento riflessivo e autoriflessivo
+
 ## Opere
 
 Le opere di Pirandello, per quanto varino in forme e generi, i temi trattati rimangono una costante:
