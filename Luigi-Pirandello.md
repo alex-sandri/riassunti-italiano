@@ -23,3 +23,15 @@ La vita di Pirandello è ora cambiata radicalmente, non più vincolato alla cura
 Nel `1924` Pirandello aderisce al fascismo, e per quanto sia consapevole della brutalità e volgarità di Mussolini, rimane fino alla fine convinto che sia l'unica alternativa alla corruzione postunitaria.\
 Grazie all'appoggio del governo fascista fonda una sua compagnia teatrale chiamata `Compagnia del Teatro d'Arte`.\
 Dopo cinque anni che la attrice `Marta Abba` aveva lavorato per lui, questa lo lascia definitivamente per andare in America. Pirandello allora ripiomba nella depressione: la sua compagnia venne chiusa a causa dei costi eccessivi, abbandonato dalla donna della sua vita, con i figli lontani, continua comunque a promuovere le sue opere fino alla sua `morte per polmonite` avvenuta verso la fine del `1936`.
+
+## Opere
+
+Le opere di Pirandello, per quanto varino in forme e generi, i temi trattati rimangono una costante:
+- Ogni individuo alla nascita assume una `forma contingente`, questa però ne limita le possibilità
+- Ogni individuo deve sottostare a dei `vincoli legati alle interazioni sociali`, deve cioè assumere un ruolo, recitare una parte, o meglio più parti a seconda del contesto
+- L'`identità individuale` è sempre relativa allo `sguardo degli altri`
+- I principi borghesi sono solo delle vuote formalità, delle parti che si è costretti a sostenere
+- Il personaggio pirandelliano per eccellenza è colui che prova a `liberarsi della maschera`, si accorge però che senza maschera è impossibile vivere
+- Il `pessimismo`, la vita cieca e fine a se stessa
+
+Pirandello si confronta anche con la `crisi del teatro` dovuta all'ascesa del `cinema`, riprende `generi e forme dalla tradizione` ma si comporterà come un `artista d'avanguardia` svecchiando completamente il teatro, per esempio, complicando le trame fino all'inverosimile.
