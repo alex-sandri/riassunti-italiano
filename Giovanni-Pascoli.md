@@ -9,7 +9,7 @@ A sette anni entra nel collegio dei padri scolopi dal quale esce nel 1871 per fr
 
 Nel `1867` la sua vita viene sconvolta dalla morte del padre, l'omicidio resterà impunito nonostante fosse noto chi aveva sparato. Nei quattro anni successivi muoiono la sorella maggiore, la madre e un fratello.
 
-Nel `1873` sostiene l'esame per ottenere una borsa di studio e frequentare l'università a Bologna, la sua carriera universitaria durò nove anni. Frequenta dligentemente solo le lezioni di Carducci. Si avvicina in questo periodo alle ideologie politiche di sinistra.
+Nel `1873` sostiene l'esame per ottenere una borsa di studio e frequentare l'università a Bologna, la sua carriera universitaria durò nove anni. Frequenta diligentemente solo le lezioni di Carducci. Si avvicina in questo periodo alle ideologie politiche di sinistra.
 
 Le sue poesie, seppure in modo limitato, cominciano a comparire sulle riviste a partire dal `1877`.
 
