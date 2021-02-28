@@ -46,7 +46,7 @@ Pirandello scrive novelle nel corso di più di quarant'anni di carriera, pubblic
 Si passa dai primi racconti a tema sentimentale agli ultimi surrealistici e grotteschi.
 
 Nonostante le differenze in temi si possono comunque riconoscere delle costanti:
-- I racconti cominciano `in medias res`, cioè quando tutti gli avvenimenti decisivi per i personaggi sono già avvenuti, vengono recuperati tramite `veloci analessi` (*flashback*)
+- I racconti cominciano *`in medias res`*, cioè quando tutti gli avvenimenti decisivi per i personaggi sono già avvenuti, vengono recuperati tramite `veloci analessi` (*flashback*)
 - Straordinaria `varietà di ambientazioni geografiche e collocazioni sociali`: si va dall'alta borghesia ai contadini, dalla Sicilia alla Germania
 - I personaggi sono ben `caratterizzati fisicamente` e sono tutti degli `sconfitti`, hanno un destino ormai segnato
 - La vita nel complesso è sempre una `tragedia`, ma nei dettagli diventa una `commedia`
