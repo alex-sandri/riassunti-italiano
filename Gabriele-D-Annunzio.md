@@ -71,4 +71,15 @@ Le *Laudi* dovevano essere composte da sette libri ma vennero scritti soltanto i
 Le prime opere di d'Annunzio sono a `sfondo locale`, ispirate quindi dalla `moda verista`, diffusasi grazie [`Giovanni Verga`][giovanni-verga].\
 In questo primo periodo comincia a svilupparsi la sua vocazione per lo `scavo psicologico` e la `curiosità per l'abnorme, il patologico, il morboso`, derivata dalla narrativa francese.
 
+Nel `1889` esce *`Il piacere`*, che viene definito il romanzo italiano più notevole dopo *I promessi sposi*. Le tecniche narrative inaugurate in questo romanzo torneranno anche nei successivi.
+
+I romanzi di d'Annunzio hanno una trama povera di eventi, in quanto preferisce fare uno `studio di carattere`, raffigurando un uomo e le sue opinioni (coincidenti per buona parte con quelle dell'autore).
+
+Il tema principale in quasi tutti i suoi romanzi è l'amore, solitamente un `amore monodirezionale`, la donna subordinata all'uomo.\
+D'Annunzio scriverà anche romanzi per il `pubblico femminile`, che anticiperanno i cosiddetti *romanzi rosa*.
+
+I suoi romanzi sono narrati `attraverso gli occhi del protagonista`, talvolta cedendogli direttamente la parola.
+
+Altra caratteristica dei romanzi, ma anche di tutta la sua produzione letteraria, è l'utilizzo di una `lingua colta`, una lingua piena di *toscanismi*, *latinismi*, *arcaismi* e *tecnicismi*.
+
 [giovanni-verga]: Giovanni-Verga.md
