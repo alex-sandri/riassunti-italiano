@@ -40,7 +40,7 @@ Pirandello si confronta anche con la `crisi del teatro` dovuta all'ascesa del `c
 (1904)
 
 ### *Uno, nessuno e centomila*
-(1925 - 1926)
+(1926)
 
 [il-fu-mattia-pascal]: #il-fu-mattia-pascal
 [uno-nessuno-e-centomila]: #uno-nessuno-e-centomila
