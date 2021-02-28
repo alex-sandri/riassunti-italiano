@@ -9,7 +9,7 @@ Abbandona gli studi tecnici e commerciali per frequentare il liceo classico, isc
 Ritornato a Roma accetta una proposta di matrimonio combinata dal padre, ma che rispetterà anche quando le vicissitudini della vita avrebbero potuto spingerlo a fare il contrario.
 
 I primi anni della vita di coppia trascorrono relativamente tranquilli, fino a quando, dopo il crollo di una miniera di zolfo in cui era investito tutto il patrimonio familiare, Pirandello si ritrova senza una rendita e il già precario equilibrio psichico di sua moglie entra in crisi.\
-Fu in questo periodo che pubblica uno dei suoi romanzi più importanti: *`Il fu Mattia Pascal`*.
+Fu in questo periodo che pubblica uno dei suoi romanzi più importanti: *[`Il fu Mattia Pascal`][il-fu-mattia-pascal]*.
 
 Spinto dalla necessità economica Pirandello si riavvicina al teatro, producendo `atti unici`, la maggior parte dei quali in `dialetto`. Prese quasi sempre spunto per il testo teatrale da una `novella`.\
 Ormai cinquant'enne dopo l'ennesima scenata della moglie si convince a farla internare in una casa di cura.
@@ -18,7 +18,7 @@ Due anni dopo va in scena l'opera *Sei personaggi in cerca d'autore*: un'`opera 
 
 La vita di Pirandello è ora cambiata radicalmente, non più vincolato alla cura della moglie e con i figli ormai grandi, viaggia in tutta Europa e anche in America per promuovere le sue opere. Nonostante sia impegnato con il teatro continua a scrivere e pubblica altri due romanzi:
 - *`Quaderni di Serafino Gubbio operatore`* (1925)
-- *`Uno, nessuno e centomila`* (1926)
+- *[`Uno, nessuno e centomila`][uno-nessuno-e-centomila]* (1926)
 
 Nel `1924` Pirandello aderisce al fascismo, e per quanto sia consapevole della brutalità e volgarità di Mussolini, rimane fino alla fine convinto che sia l'unica alternativa alla corruzione postunitaria.\
 Grazie all'appoggio del governo fascista fonda una sua compagnia teatrale chiamata `Compagnia del Teatro d'Arte`.\
@@ -35,3 +35,12 @@ Le opere di Pirandello, per quanto varino in forme e generi, i temi trattati rim
 - Il `pessimismo`, la vita cieca e fine a se stessa
 
 Pirandello si confronta anche con la `crisi del teatro` dovuta all'ascesa del `cinema`, riprende `generi e forme dalla tradizione` ma si comporterà come un `artista d'avanguardia` svecchiando completamente il teatro, per esempio, complicando le trame fino all'inverosimile.
+
+### *Il fu Mattia Pascal*
+(1904)
+
+### *Uno, nessuno e centomila*
+(1925 - 1926)
+
+[il-fu-mattia-pascal]: #il-fu-mattia-pascal
+[uno-nessuno-e-centomila]: #uno-nessuno-e-centomila
