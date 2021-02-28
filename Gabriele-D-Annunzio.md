@@ -87,7 +87,27 @@ Altra caratteristica dei romanzi, ma anche di tutta la sua produzione letteraria
 ### *Il piacere*
 (1889)
 
+#### Trama
+
 Il protagonista è `Andrea Sperelli`, un *dandy* stabilitosi a Roma che si innamora di una donna, Elena Muti, che scomparirà misteriosamente. Allora lui si dedica al piacere, al sesso, seducendo una donna dopo l'altra senza però dimenticare la prima. Elena tornata a Roma ora è sposata e Sperelli ora desidererebbe una donna che unisse lei e il suo nuovo amore, Maria. Questa riceve da Sperelli una ultima visita da Sperelli durante la quale però si lascia sfuggire il nome di Elena. Dopo la fuga di Maria, Sperelli si aggira per il suo palazzo dove prova un *stanchezza così vacua e disperata che quasi pareva un bisogno fisico di morire*.
+
+#### Personaggi
+
+Andrea Sperelli è un personaggio con parecchi `tratti autobiografici`, rappresentava infatti ciò che d'Annunzio voleva essere e in parte era, nonostante nell'introduzione al romanzo d'Annunzio si mostri fortemente critico nei suoi confronti. Questo atteggiamento nei confronti del suo personaggio poteva essere dovuto al voler evitare la censura o le critiche moralistiche che potrebbero nuocere al libro.
+
+#### Stile
+
+Lo stile de *Il piacere* ha una tendenza alla `sovrabbondanza` e all'`esasperazione`, all'`enfasi`, tutto è perciò portato al massimo grado possibile.\
+Viene utilizzato un `lessico colto e raffinato`, utilizzando anche `parole straniere`.\
+Il libro abbonda anche di `riferimenti colti` a poeti, scrittori, artisti.
+
+### *Notturno*
+(1921)
+
+D'Annunzio è costretto a letto e al buio dopo la perdita dell'occhio destro durante la guerra.
+
+D'Annunzio lo definisce un *comentario delle tenebre*, richiamando la condizione in cui viene scritto il libro: la `provvisoria cecità`.\
+Vengono raccontate qui le vicende legate alla malattia, con uno stile semplice e diretto.
 
 [giovanni-verga]: Giovanni-Verga.md
 [il-piacere]: #il-piacere
