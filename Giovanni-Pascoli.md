@@ -56,8 +56,8 @@ In queste poesie Pascoli fa più volte uso del `fonosimbolismo` e delle tecniche
 (1897)
 
 Questi sono una raccolta di `poesie narrative di argomento campestre`, ossia poesie che raccontano una storia. Questa raccolta verrà riorganizzata e divisa in:
-- *`Primi Poemetti`*: `1904`
-- *`Nuovi Poemetti`*: `1909`
+- *`Primi Poemetti`* (1904)
+- *`Nuovi Poemetti`* (1909)
 
 Una parte importante dei *Poemetti* è costituita dalle vicende familiari delle due sorelle Rosa e Viola e dall'amore di Rosa per il cacciatore Rigo. In queste vicende si può notare la `matrice autobiografica`: Rosa è Ida, la sorella che abbandona il nido per amore, mentre Viola è Maria, la sorella abbandonata.\
 Ma al di là di questa "saga familiare" nei *Poemetti* è presente una grande varietà tematica, in cui `Pascoli racconta di sé`, ma non lo fa da protagonista bensì `da testimone`.
