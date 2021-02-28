@@ -61,3 +61,14 @@ I temi più frequenti nella sua poesia sono:
 - le `descrizioni della natura`
 - una `vitalità positiva`
 - una `sensualità esplicita`
+
+I risultati migliori in poesia gli dà fra i trenta e i quarant'anni, cioè tra il *Poema paradisiaco* e i tre libri delle *Laudi*.\
+Nel *Poema paradisiaco* d'Annunzio rinuncia al suo registro più colto per uno più vicino al parlato.\
+Le *Laudi* dovevano essere composte da sette libri ma vennero scritti soltanto i primi cinque. In questa raccolta poetica d'Annunzio sviluppa il concetto di super uomo, attraverso un viaggio che parte dalla mitologia greca fino all'esaltazione del nazionalismo moderno.
+
+## D'Annunzio prosatore
+
+Le prime opere di d'Annunzio sono a `sfondo locale`, ispirate quindi dalla `moda verista`, diffusasi grazie [`Giovanni Verga`][giovanni-verga].\
+In questo primo periodo comincia a svilupparsi la sua vocazione per lo `scavo psicologico` e la `curiosità per l'abnorme, il patologico, il morboso`, derivata dalla narrativa francese.
+
+[giovanni-verga]: Giovanni-Verga.md
