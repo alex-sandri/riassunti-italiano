@@ -39,7 +39,7 @@ Una volta guarito torna al fronte e partecipa a due imprese militari che gli val
 
 Alla fine della guerra ritiene l'esito una `vittoria mutilata`, in quanto il trattato di pace assegna l'Istria e la Dalmazia alla Jugoslavia. Interviene occupando la città di Fiume, dove fonda lo stato libero del Carnaro, se ne proclama Duce e collabora alla scrittura della sua costituzione. Tiene in assedio la città per un anno.
 
-Dal `1921`, anno in cui esce il *`Notturno`* si ritira dalla vita pubblica e si trasferisce nella villa Cargnacco, ribattezzata `il Vittoriale degli Italiani`.\
+Dal `1921`, anno in cui esce il *[`Notturno`][notturno]* si ritira dalla vita pubblica e si trasferisce nella villa Cargnacco, ribattezzata `il Vittoriale degli Italiani`.\
 Il governo gli elargisce grandi somme di denaro per trasformare la villa Cargnacco nel Vittoriale, che lo Stato erediterà dopo la sua morte.
 
 Prova a combattere la vecchiaia che avanza attraverso il sesso e la cocaina. È un entusiasta sostenitore della guerra di Etiopia ma sconsiglia più volte a Mussolini di allearsi con Hitler.
@@ -89,7 +89,7 @@ Altra caratteristica dei romanzi, ma anche di tutta la sua produzione letteraria
 
 #### Trama
 
-Il protagonista è `Andrea Sperelli`, un *dandy* stabilitosi a Roma che si innamora di una donna, Elena Muti, che scomparirà misteriosamente. Allora lui si dedica al piacere, al sesso, seducendo una donna dopo l'altra senza però dimenticare la prima. Elena tornata a Roma ora è sposata e Sperelli ora desidererebbe una donna che unisse lei e il suo nuovo amore, Maria. Questa riceve da Sperelli una ultima visita da Sperelli durante la quale però si lascia sfuggire il nome di Elena. Dopo la fuga di Maria, Sperelli si aggira per il suo palazzo dove prova un *stanchezza così vacua e disperata che quasi pareva un bisogno fisico di morire*.
+Il protagonista è `Andrea Sperelli`, un *dandy* stabilitosi a Roma che si innamora di una donna, Elena Muti, che scomparirà misteriosamente. Allora lui si dedica al piacere, al sesso, seducendo una donna dopo l'altra senza però dimenticare la prima. Elena tornata a Roma ora è sposata e Sperelli ora desidererebbe una donna che unisse lei e il suo nuovo amore, Maria. Questa riceve una ultima visita da Sperelli durante la quale però si lascia sfuggire il nome di Elena. Dopo la fuga di Maria, Sperelli si aggira per il suo palazzo dove prova un *stanchezza così vacua e disperata che quasi pareva un bisogno fisico di morire*.
 
 #### Personaggi
 
@@ -111,3 +111,4 @@ Vengono raccontate qui le vicende legate alla malattia, con uno stile semplice e
 
 [giovanni-verga]: Giovanni-Verga.md
 [il-piacere]: #il-piacere
+[notturno]: #notturno
