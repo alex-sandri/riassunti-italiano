@@ -10,3 +10,4 @@
 * [Marcel Proust](Marcel-Proust.md)
 * [Franz Kafka](Franz-Kafka.md)
 * [Luigi Pirandello](Luigi-Pirandello.md)
+* [Italo Svevo](Italo-Svevo.md)
