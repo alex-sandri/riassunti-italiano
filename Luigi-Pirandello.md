@@ -36,7 +36,7 @@ Nell'arco della sua carriera Pirandello ha scritto `sette romanzi` molto diversi
   - Scelta di situazioni bizzarre o grottesche
   - Prevalenza dell'elemento riflessivo e autoriflessivo
 
-# Teatro pirandelliano
+## Teatro pirandelliano
 
 Pirandello si appassiona di teatro molto presto, ma nonostante i numerosi progetti e tentativi non riesce a entrare in questo mondo, accantona quindi questa sua passione per dedicarsi ad altro.\
 Fino a quando, nel `1910`, un suo compaesano alla caccia di copioni si rivolge a lui, lui che è alla disperata ricerca di soldi accetta.\
@@ -50,6 +50,16 @@ Nel teatro pirandelliano si possono individuare degli elementi essenziali:
 - La messa in discussione dell'oggettività del reale: niente è come appare, non esiste mai una sola prospettiva e una sola possibilità di giudizio
 - L'esplorazione della crisi della coscienza individuale e le profondità della psiche e delle sue dimensioni nascoste (l'inconscio, la follia, il sogno)
 - Il teatro sul teatro: al centro di questo si trova la `teoria del personaggio`, ovvero quando un autore immagina un personaggio questo assume vita propria e diventa autonomo, è in grado di dialogare con l'autore e decide se rimanere o cercare un'altra opera che meglio lo rappresenti.
+
+### Fasi
+
+#### Teatro grottesco
+
+#### Metateatro
+
+#### Il teatro della follia
+
+#### I miti
 
 ## Opere
 
