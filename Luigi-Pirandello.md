@@ -55,11 +55,20 @@ Nel teatro pirandelliano si possono individuare degli elementi essenziali:
 
 #### Teatro grottesco
 
+In questa fase prevale la ripresa delle trame tipiche del dramma borghese, prediligendo le `trame triangolari`.\
+L'estremo di questa direzione è rappresentata in *Così è (se vi pare)* in cui viene `messa in discussione l'oggettività del reale e l'identità individuale`, dove la comunità cerca, senza successo, di determinare l'identità della signora Ponza.
+
 #### Metateatro
+
+In questa fase, inaugurata con i *Sei personaggi in cerca d'autore*, prevale la `dimensione autoriflessiva`, l'indagine sul teatro stesso (*metateatro* significa infatti "teatro che parla di se stesso").
 
 #### Il teatro della follia
 
+In questa fase Pirandello sposta l'oggetto di riflessione nell'`estensione metaforica del concetto di teatro`: tutta la vita è un'enorme messa in scena, a volte lucidamente controllata, a volte sfociante nella follia, anche se spesso questo confine è difficile da tracciare. Esempio di questa fase è *Enrico IV*.
+
 #### I miti
+
+L'ultima fase del teatro di Pirandello è costituita da tre opere che si svolgono in `uno spazio e in un tempo indeterminati` e propongono `eventi meravigliosi`, che assumono un carattere di `sacralità`.
 
 ## Opere
 
