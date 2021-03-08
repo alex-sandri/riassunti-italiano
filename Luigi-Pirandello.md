@@ -80,8 +80,6 @@ Le opere di Pirandello, per quanto varino in forme e generi, i temi trattati rim
 - Il personaggio pirandelliano per eccellenza è colui che prova a `liberarsi della maschera`, si accorge però che senza maschera è impossibile vivere
 - Il `pessimismo`, la vita cieca e fine a se stessa
 
-Pirandello si confronta anche con la `crisi del teatro` dovuta all'ascesa del `cinema`, riprende `generi e forme dalla tradizione` ma si comporterà come un `artista d'avanguardia` svecchiando completamente il teatro, per esempio, complicando le trame fino all'inverosimile.
-
 ### *Il fu Mattia Pascal*
 (1904)
 
