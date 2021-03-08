@@ -26,7 +26,7 @@ Dopo cinque anni che la attrice `Marta Abba` aveva lavorato per lui, questa lo l
 
 ## Pirandello romanziere
 
-Nell'arco della sua carriera Pirandello ha scritto `sette romanzi` molto diversi tra loro, si possono comunque trovare degli elementi in comune tra loro:
+Nell'arco della sua carriera Pirandello ha scritto `sette romanzi` molto diversi tra loro, dei quali si possono comunque trovare degli elementi in comune:
 - `La considerazione negativa dei rapporti e dei legami sociali`
 - `La crisi dell'identità individuale`
 - `La critica e la corrosione del genere romanzesco`: All'inizio del Novecento le grandi forme narrative ottocentesche entrano in crisi
