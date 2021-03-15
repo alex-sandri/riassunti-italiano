@@ -48,6 +48,16 @@ A questo punto, il protagonista decide di `suicidarsi`.
 ### *Senilità*
 (1898)
 
+Il titolo allude alla vecchiaia del protagonista, ma non anagrafica bensì una condizione di `stanchezza esistenziale` che gli impedisce di realizzare le sue ambizioni.\
+Ambientato anche questo a Trieste è ispirato alla vita dello stesso autore e di persone a lui vicine.
+
+`Emilio Brentani`, lavora per una compagnia di assicurazioni ma ha ambizioni letterarie, ha infatti pubblicato un romanzo che seppur di scarso successo gli ha fatto guadagnare una reputazione di intellettuale tra i conoscenti.\
+Riconosce i propri limiti, sa di non valere molto ma spera sempre che il destino arrivi, prima o poi, a dimostrare il contrario.
+
+Emilio vive con la sorella Amalia, ad alterare gli equilibri tra di loro è la relazione di Emilio con Angiolina Zarri, tutt'altro rispetto a quella che lui vuole far credere una donna-angelo.\
+Stanco del suo comportamento e delle sue bugie, Emilio chiede consiglio ad un amico di cui Amalia si innamora segretamente e, quando Emilio e lui litigheranno e quest'ultimo non si farà più vedere, Amalia precipita in un delirio che la consuma fino alla morte.\
+La relazione tra Emilio e Angiolina si interrompe, ma nel finale Emilio rimane comunque confortato dal ricordo della sorella e dell'amante, fuse in un'unica figura ideale.
+
 ### *La coscienza di Zeno*
 (1923)
 
