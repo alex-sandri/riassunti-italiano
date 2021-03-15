@@ -21,4 +21,29 @@ Durante la fine della prima guerra mondiale l'industria di famiglia entra in cri
 
 Muore in un incidente automobilistico nel `1928`, lasciando incompiuta un'opera da considerarsi la continuazione de *La coscienza di Zeno*.
 
+## Opere
+
+L'importanza di Svevo per la nostra letteratura novecentesca è dovuta principalmente alla sua `formazione culturale mitteleuropea`, l'essere nato a Trieste e la conoscenza del tedesco lo resero infatti più capace di intercettare meglio e prima le correnti più moderne del pensiero e dell'arte.\
+Questo lo si può notare dalla sua predilezione per il genere del `romanzo`.
+
+Al contrario dei suoi contemporanei (come [Gabriele d'Annunzio][gabriele-d-annunzio] e [Luigi Pirandello][luigi-pirandello]) Svevo non si impegnò con la poesia o il teatro, ma invece investì tutto il suo talento nel romanzo, investimento che, anche se non subito, pagò.\
+Le sue opere infatti hanno saputo durare nel tempo più di molte altre.
+
+Caratteristiche delle opere di Svevo sono:
+- La profondità della sua `analisi psicologica`, applicata a personaggi ambigui, complessi, contradditori
+- Mettere al centro dei `personaggi consapevoli, problematici` e inclini all'autoanalisi: riuscì bene in questo anche grazie alla sua profonda conoscenza di Freud e della psicoanalisi
+- La `moltiplicazione delle voci` (un essere umano è al contempo "molte cose diverse"): questo viene fatto attraverso l'utilizzo di un narratore che spiega le vere ragioni dietro i gesti e le parole dei personaggi
+- La sua idea di un `tempo soggettivo`: i fatti non si succedono in modo cronologico ma vengono rivissuti e spesso alterati, il narratore può dedicare molte pagine ad una notte soltanto e saltare interi anni
+- Tratti in comune con il genere dell'*`autofiction`*, ovvero l'autore parla di sé incrociando biografia e invenzione
+
+### *Una vita*
+(1892)
+
+### *Senilità*
+(1898)
+
+### *La coscienza di Zeno*
+(1923)
+
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
+[luigi-pirandello]: Luigi-Pirandello.md
