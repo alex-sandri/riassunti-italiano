@@ -12,14 +12,14 @@ Il suo vero nome è `Aron Hector Schmitz`, ma preferisce firmare le sue opere co
 Lo stile di Svevo veniva criticato inizialmente per una sua `presunta rozzezza`, utilizzava infatti `germanismi`, e si discostava dallo stile più apprezzato all'epoca, come quello di [Gabriele d'Annunzio][gabriele-d-annunzio].\
 Venne però successivamente rivalutato riconoscendone l'`efficacia` e la `concretezza`.
 
-Nel `1892` pubblica il suo primo romanzo, *Una vita*.
+Nel `1892` pubblica il suo primo romanzo, *[Una vita][una-vita]*.
 
-L'insuccesso che otterrà il suo secondo romanzo, *Senilità* (1898), lo convincerà ad abbandonare la letteratura.\
+L'insuccesso che otterrà il suo secondo romanzo, *[Senilità][senilità]* (1898), lo convincerà ad abbandonare la letteratura.\
 Si dedicherà così negli anni successivi a una diversa carriera, che porterà Svevo a conoscere `James Joyce`, il suo insegnante d'inglese.
 
-Durante la fine della prima guerra mondiale l'industria di famiglia entra in crisi, così dopo la fine della guerra Svevo ritorna alla letteratura con *La coscienza di Zeno* (1923).
+Durante la fine della prima guerra mondiale l'industria di famiglia entra in crisi, così dopo la fine della guerra Svevo ritorna alla letteratura con *[La coscienza di Zeno][la-coscienza-di-zeno]* (1923).
 
-Muore in un incidente automobilistico nel `1928`, lasciando incompiuta un'opera da considerarsi la continuazione de *La coscienza di Zeno*.
+Muore in un incidente automobilistico nel `1928`, lasciando incompiuta un'opera da considerarsi la continuazione de *[La coscienza di Zeno][la-coscienza-di-zeno]*.
 
 ## Opere
 
@@ -50,6 +50,10 @@ A questo punto, il protagonista decide di `suicidarsi`.
 
 ### *La coscienza di Zeno*
 (1923)
+
+[una-vita]: #una-vita
+[senilità]: #senilità
+[la-coscienza-di-zeno]: #la-coscienza-di-zeno
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 [luigi-pirandello]: Luigi-Pirandello.md
