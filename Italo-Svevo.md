@@ -39,6 +39,12 @@ Caratteristiche delle opere di Svevo sono:
 ### *Una vita*
 (1892)
 
+Al centro di questa opera c'è un `inetto` (*Un inetto* era infatti il titolo originale), `Alfonso Nitti`, giovane intellettuale con ambizioni letterarie. Decide di trasferirsi a Trieste dove trova lavoro in una banca. Questo è per lui un lavoro frustrante, ma riesce ad intravedere il successo dopo essere stato invitato a casa della famiglia proprietaria della banca, qui entra nelle grazie della figlia del banchiere con la quale comincia una relazione, ma invece di approfittare dell'occasione a lui offerta se ne torna al suo paese d'origine dalla madre.\
+Il motivo di questo suo comportamento è del tutto soggettivo, dipende infatti da un `sentimento d'inadeguatezza`.
+
+Quando deciderà di tornare alla banca gli verrà affidato un compito di rango inferiore rispetto al precedente, tenta di riconciliarsi con la figlia del banchiere e le chiede un appuntamento, al quale però si presenta il fratello che lo sfida a duello.\
+A questo punto, il protagonista decide di `suicidarsi`.
+
 ### *Senilità*
 (1898)
 
