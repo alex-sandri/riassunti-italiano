@@ -14,10 +14,10 @@ Venne però successivamente rivalutato riconoscendone l'`efficacia` e la `concre
 
 Nel `1892` pubblica il suo primo romanzo, *[Una vita][una-vita]*.
 
-L'insuccesso che otterrà il suo secondo romanzo, *[Senilità][senilità]* (1898), lo convincerà ad abbandonare la letteratura.\
+L'insuccesso che otterrà il suo secondo romanzo, *[Senilità][senilità]*, lo convincerà ad abbandonare la letteratura.\
 Si dedicherà così negli anni successivi a una diversa carriera, che porterà Svevo a conoscere `James Joyce`, il suo insegnante d'inglese.
 
-Durante la fine della prima guerra mondiale l'industria di famiglia entra in crisi, così dopo la fine della guerra Svevo ritorna alla letteratura con *[La coscienza di Zeno][la-coscienza-di-zeno]* (1923).
+Durante la fine della prima guerra mondiale l'industria di famiglia entra in crisi, così dopo la fine della guerra Svevo ritorna alla letteratura con *[La coscienza di Zeno][la-coscienza-di-zeno]*.
 
 Muore in un incidente automobilistico nel `1928`, lasciando incompiuta un'opera da considerarsi la continuazione de *[La coscienza di Zeno][la-coscienza-di-zeno]*.
 
