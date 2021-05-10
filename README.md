@@ -8,6 +8,7 @@
 
 - [Gustave Flaubert](Gustave-Flaubert.md)
 - [Charles Baudelaire](Charles-Baudelaire.md)
+- [Émile Zola](Emile-Zola.md)
 - [Giovanni Verga](Giovanni-Verga.md)
 - [Giovanni Pascoli](Giovanni-Pascoli.md)
 - [Gabriele D'Annunzio](Gabriele-D-Annunzio.md)
