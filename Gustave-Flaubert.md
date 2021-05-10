@@ -22,6 +22,7 @@ Si limita ad osservare e a dissezionare la realtà, senza quindi esprimere opini
 Si interessa della borghesia francese, non per il modo in cui vive o per come usa il proprio denaro, ma per il suo spirito, la sua mentalità, che Flaubert giudica con ironia e disprezzo.
 
 ### *Madame Bovary*
+(1856)
 
 Inizialmente pubblicato a puntate.\
 Ottenne un grande successo ma destò anche un grande scandalo. Questo portò Flaubert a essere citato in giudizio per aver offeso la morale e la religione, dalla quale viene però assolto.
