@@ -18,7 +18,7 @@ Muore nel `maggio 1880`.
 ## Opere
 
 Fu uno degli scrittori che cominciò a scrivere della vita ordinaria della gente ordinaria.\
-Si limita ad osservare e a dissezionare la realtà, senza quindi esprimere opinioni personali\.
+Si limita ad osservare e a dissezionare la realtà, senza quindi esprimere opinioni personali.\
 Si interessa della borghesia francese, non per il modo in cui vive o per come usa il proprio denaro, ma per il suo spirito, la sua mentalità, che Flaubert giudica con ironia e disprezzo.
 
 ### *Madame Bovary*
