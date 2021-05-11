@@ -15,4 +15,22 @@ Nel `1893` ritorna in Sicilia, dove si dedica all'educazione dei nipoti e alla g
 
 Muore a `Catania` nel `1922`.
 
+## Opere
+
+### *Nedda*
+(1874)
+
+Una raccoglitrice di olive che va in giro in cerca di un lavoro per aiutare la madre malata.
+
+### *I Malavoglia*
+(1881)
+
+Primo dei cinque romanzi che avrebbero dovuto costituire il *Ciclo dei vinti*, originariamente intitolato *Marea*.\
+Il titolo originale era *Padron 'Ntoni* e racconta del disastro a cui va incontro la famiglia dopo il naufragio di una barca su cui avevano investito tutti i soldi.
+
+### *Mastro-don Gesualdo*
+(1889)
+
+Nato povero, grazie al lavoro e all'astuzia, riesce a salire tutti i gradini della scala sociale ma, giunto alla fine della sua vita, capisce che tutto è stato vano.
+
 [emile-zola]: Emile-Zola.md
