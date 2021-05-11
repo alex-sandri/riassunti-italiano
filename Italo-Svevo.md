@@ -61,7 +61,7 @@ La relazione tra Emilio e Angiolina si interrompe, ma nel finale Emilio rimane c
 ### *La coscienza di Zeno*
 (1923)
 
-Nuovamente ambientata a Trieste la vicenda ha come protagonista `Zeno Cosini`, giudicato debole e inconcludente cambia infatti continuamente facoltà universitaria senza completare gli studi, non riesce inoltre ad abbandonare il vizio del fumo.\
+Nuovamente ambientata a Trieste la vicenda ha come protagonista `Zeno Cosini`, giudicato debole e inconcludente: cambia infatti continuamente facoltà universitaria senza completare gli studi, non riesce inoltre ad abbandonare il vizio del fumo.\
 Quando il padre si ammala Zeno fa di tutto per tenerlo a letto ma, con un gesto forse involontario, il padre, nel tentativo di liberarsi colpisce Zeno con uno schiaffo e muore. Questo provocherà in Zeno infiniti turbamenti e sensi di colpa.
 
 [una-vita]: #una-vita
