@@ -64,9 +64,18 @@ La relazione tra Emilio e Angiolina si interrompe, ma nel finale Emilio rimane c
 Nuovamente ambientata a Trieste la vicenda ha come protagonista `Zeno Cosini`, giudicato debole e inconcludente: cambia infatti continuamente facoltà universitaria senza completare gli studi, non riesce inoltre ad abbandonare il vizio del fumo.\
 Quando il padre si ammala Zeno fa di tutto per tenerlo a letto ma, con un gesto forse involontario, il padre, nel tentativo di liberarsi colpisce Zeno con uno schiaffo e muore. Questo provocherà in Zeno infiniti turbamenti e sensi di colpa.
 
+Frequentando la Borsa di Trieste incontra un uomo più anziano abile negli affari che lo invita a casa sua. Qui conosce e si innamora di Ada, ma questa si innamora di un altro. Zeno prova con un altra delle sue figlie, ma senza successo. Alla fine, contro la propria volontà, si fidanza con Augusta che, nonostante sia la più brutta delle sorelle, è si rivelerà una moglie fedele: il suo matrimonio sarà più solido di quello tra Ada e suo marito.
+
+Questo rende Zeno, al contrario degli altri inetti di Svevo, un personaggio che, nonostante un'apparente inadeguatezza e goffaggine, riesce ad avere la meglio sugli altri in affetto e lavoro. Si potrebbe definire uno `pseudo-inetto`.\
+Questo è dovuto, secondo Svevo, dal fatto che un individuo che non ha ancora sviluppato capacità particolari in un determinato campo è in grado di evolversi e adattarsi: insomma questo `darwinismo sociale` fa della sua incompiutezza la sua forza.\
+Questa capacità di adattamento diventa evidente alla fine: dopo aver sofferto per anni e dopo essersi rivolto al dottor S., che lo convince a scrivere una sorta di memoriale a scopo terapeutico, Zeno guarisce, proprio mentre si stava svolgendo la [prima guerra mondiale][prima-guerra-mondiale].\
+Zeno arriva addirittura ad immaginare un ordigno che ridurrà la Terra in una nebulosa, liberandola da parassiti e malattie.
+
 [una-vita]: #una-vita
 [senilità]: #senilità
 [la-coscienza-di-zeno]: #la-coscienza-di-zeno
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 [luigi-pirandello]: Luigi-Pirandello.md
+
+[prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
