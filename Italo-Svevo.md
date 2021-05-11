@@ -51,6 +51,8 @@ A questo punto, il protagonista decide di `suicidarsi`.
 Il titolo allude alla vecchiaia del protagonista, ma non anagrafica bensì una condizione di `stanchezza esistenziale` che gli impedisce di realizzare le sue ambizioni.\
 Ambientato anche questo a Trieste è ispirato alla vita dello stesso autore e di persone a lui vicine.
 
+#### Trama
+
 `Emilio Brentani`, lavora per una compagnia di assicurazioni ma ha ambizioni letterarie, ha infatti pubblicato un romanzo che seppur di scarso successo gli ha fatto guadagnare una reputazione di intellettuale tra i conoscenti.\
 Riconosce i propri limiti, sa di non valere molto ma spera sempre che il destino arrivi, prima o poi, a dimostrare il contrario.
 
