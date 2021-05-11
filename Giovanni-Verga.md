@@ -22,6 +22,19 @@ La carriera di Verga si può suddividere in tre fasi:
 - `Fase verista`: *Vita dei campi*, *[I Malavoglia][malavoglia]*, *[Mastro-don Gesualdo][mastro-don-gesualdo]*
 - `Fase teatrale`: teatro ed educazione dei nipoti
 
+Nelle opere di Verga si possono trovare tre temi centrali:
+- Esistenza vista come lotta continua
+- Famiglia come legame sacro
+- Accumulo della "roba"
+
+Utilizza l'`artificio della regressione` (vedi [Verismo][verismo]):
+- Adotta il punto di vista dei suoi personaggi, regredendo quindi al loro livello culturale, fino ad una totale eclissi del narratore in molti casi
+- `Opera` che si è `fatta da sé`, senza cioè alcun legame con l'autore
+- Oggettività del racconto, usando un linguaggio adatto ai suoi personaggi
+- Evitare l'effetto della catastrofe, cioè evitando i colpi di scena
+
+Utilizza anche il `discorso indiretto libero`: un tipo di discorso riportato dove viene omessa la clausola citante. Questa scelta è dovuta alla volontà di Verga di eclissare l'autore, senza quindi dargli uno spazio per descrivere l'ambiente o i pensieri. Questo incarico spetta quindi ai personaggi stessi.
+
 ### *Nedda*
 (1874)
 
@@ -41,3 +54,4 @@ Nato povero, grazie al lavoro e all'astuzia, riesce a salire tutti i gradini del
 [emile-zola]: Emile-Zola.md
 [malavoglia]: #i-malavoglia
 [mastro-don-gesualdo]: #mastro-don-gesualdo
+[verismo]: Verismo.md
