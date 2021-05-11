@@ -18,7 +18,7 @@ Contrae la sifilide, della quale muore nel `1867`.
 
 Pubblicati nel 1857, inizialmente intitolati *Le lesbiche*, portarono Baudelaire a processo per oltraggio alla morale.
 
-*I fiori del male* non parlano ell'amore romantico, della bellezza della natura, ma di vizi, di corruzione, del male.
+*I fiori del male* non parlano dell'amore romantico, della bellezza della natura, ma di vizi, di corruzione, del male.
 
 Il luogo della poesia di Baudelaire è la città. Dal suo rifiuto della natura nasce la figura del *dandy*, cioè colui che cerca di ridurre il più possibile la parte animale che è in lui.
 
