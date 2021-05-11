@@ -63,6 +63,15 @@ La relazione tra Emilio e Angiolina si interrompe, ma nel finale Emilio rimane c
 ### *La coscienza di Zeno*
 (1923)
 
+La `narrazione` è in `prima persona`, il lettore sta perciò leggendo una serie di menzogne e ricostruzioni modificate, abbiamo perciò un `narratore inattendibile`.
+
+In questo romanzo Svevo mette in scena è la `soggettività del tempo filtrato dalla coscienza`.\
+Per Svevo il passato, il contenitore di fatti da cui attingere, non esiste: dimentichiamo infatti spesso particolari o gli modifichiamo influenzati da altre esperienze.
+
+I temi della `memoria` e della `coscienza` a cui Svevo si ispira erano già stati esplorati da autori come [Marcel Proust][marcel-proust] in [*Alla ricerca del tempo perduto*][alla-ricerca-del-tempo-perduto].
+
+#### Trama
+
 Nuovamente ambientata a Trieste la vicenda ha come protagonista `Zeno Cosini`, giudicato debole e inconcludente: cambia infatti continuamente facoltà universitaria senza completare gli studi, non riesce inoltre ad abbandonare il vizio del fumo.\
 Quando il padre si ammala Zeno fa di tutto per tenerlo a letto ma, con un gesto forse involontario, il padre, nel tentativo di liberarsi colpisce Zeno con uno schiaffo e muore. Questo provocherà in Zeno infiniti turbamenti e sensi di colpa.
 
@@ -79,5 +88,7 @@ Zeno arriva addirittura ad immaginare un ordigno che ridurrà la Terra in una ne
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 [luigi-pirandello]: Luigi-Pirandello.md
+[marcel-proust]: Marcel-Proust.md
+[alla-ricerca-del-tempo-perduto]: Marcel-Proust.md#alla-ricerca-del-tempo-perduto
 
 [prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
