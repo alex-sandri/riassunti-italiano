@@ -17,6 +17,11 @@ Muore a `Catania` nel `1922`.
 
 ## Opere
 
+La carriera di Verga si può suddividere in tre fasi:
+- `Fase giovanile`: prime prove letterarie
+- `Fase verista`: *Vita dei campi*, *[I Malavoglia][malavoglia]*, *[Mastro-don Gesualdo][mastro-don-gesualdo]*
+- `Fase teatrale`: teatro ed educazione dei nipoti
+
 ### *Nedda*
 (1874)
 
@@ -34,3 +39,5 @@ Il titolo originale era *Padron 'Ntoni* e racconta del disastro a cui va incontr
 Nato povero, grazie al lavoro e all'astuzia, riesce a salire tutti i gradini della scala sociale ma, giunto alla fine della sua vita, capisce che tutto è stato vano.
 
 [emile-zola]: Emile-Zola.md
+[malavoglia]: #i-malavoglia
+[mastro-don-gesualdo]: #mastro-don-gesualdo
