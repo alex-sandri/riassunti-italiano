@@ -16,6 +16,7 @@
 - [Franz Kafka](Franz-Kafka.md)
 - [Luigi Pirandello](Luigi-Pirandello.md)
 - [Italo Svevo](Italo-Svevo.md)
+- [Giuseppe Ungaretti](Giuseppe-Ungaretti.md)
 
 ### Movimenti
 
