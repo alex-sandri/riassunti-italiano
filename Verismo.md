@@ -5,7 +5,7 @@
 - Rappresentazione esatta, originale e profonda della realtà
 - Nella pittura i macchiaioli decidono di uscire dagli studi, di osservare la realtà e di riportarla nelle loro tele
 - Nel teatro nasce il dramma borghese che porta sulla scena fatti e personaggi di quel mondo borghese del quale il pubblico è parte
-- La lezione di *[Zola][emile-zola]*:
+- La lezione di [Zola][emile-zola]:
   - Impersonalità del narratore
   - Lunghe descrizioni oggettive
   - Le trame semplici, ordinate e prive di grandi colpi di scena
