@@ -9,6 +9,21 @@ Alessandria, città cosmopolita, permise ad Ungaretti di imparare, oltre all'ita
 
 Nel `1912` lascia l'Africa e si dirige a `Parigi`, dove assiste alle lezioni del filosofo `Bergson`, alle cui riflessioni sulla `temporalità` e sulla `memoria` si ispirò per scrivere *Sentimento del tempo*.
 
-Quando l'Italia entra nella [prima guerra mondiale][prima-guerra-mondiale], Ungaretti si arruola in fanteria.
+Quando l'Italia entra nella [prima guerra mondiale][prima-guerra-mondiale], Ungaretti si arruola in fanteria. La scelta di partire volontario era stata comune a molti altri intellettuali, tra cui [Gabriele d'Annunzio][gabriele-d-annunzio], convinti di poter completare l'unificazione nazionale (Trento e Trieste non erano ancora italiane). Ungaretti vedeva nella guerra un modo per sentire di appartenere ad un Paese da cui era sempre rimasto lontano.\
+Viene mandato sul fronte del Carso dove scrive alcune delle poesie che finiranno ne *L'Allegria*.
+
+Nel `1936` si trasferisce in `Brasile`, dove gli è stata offerta la `cattedra di Letteratura italiana` all'università di San Paolo.
+
+Nel `1942`, all'entrata in guerra del Brasile a fianco degli Alleati, torna a `Roma`, dove viene nominato professore "per chiara fama" all'università La Sapienza.
+
+L'esser stato riconosciuto dal regime fascista della massima onorificenza gli costò, dopo la caduta del fascismo, la temporanea sospensione dall'insegnamento.
+
+La fama arriva nel dopoguerra con la pubblicazione di molte delle sue opere.
+
+Negli ultimi anni Ungaretti scrive e viaggia, anche negli Stati Uniti dove insegnerà a New York.
+
+Muore a `Milano` nel `giugno 1970`.
+
+[gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 
 [prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
