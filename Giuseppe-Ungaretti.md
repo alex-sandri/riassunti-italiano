@@ -42,6 +42,9 @@ Questa raccolta diventò anche il modello per i cosiddetti poeti ermetici, nella
 ### *L'Allegria*
 (1942)
 
+Uscito nel 1942 ma l'assetto del libro è già fissato nel `1932`.\
+Il titolo originale era *Allegria di naufragi*.
+
 [allegria]: #lallegria
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
