@@ -42,7 +42,7 @@ Questa raccolta diventò anche il modello per i cosiddetti poeti ermetici, nella
 ### *L'Allegria*
 (1942)
 
-[allegria]: #l-allegria
+[allegria]: #lallegria
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 
