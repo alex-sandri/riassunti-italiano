@@ -10,7 +10,7 @@ Alessandria, città cosmopolita, permise ad Ungaretti di imparare, oltre all'ita
 Nel `1912` lascia l'Africa e si dirige a `Parigi`, dove assiste alle lezioni del filosofo `Bergson`, alle cui riflessioni sulla `temporalità` e sulla `memoria` si ispirò per scrivere *Sentimento del tempo*.
 
 Quando l'Italia entra nella [prima guerra mondiale][prima-guerra-mondiale], Ungaretti si arruola in fanteria. La scelta di partire volontario era stata comune a molti altri intellettuali, tra cui [Gabriele d'Annunzio][gabriele-d-annunzio], convinti di poter completare l'unificazione nazionale (Trento e Trieste non erano ancora italiane). Ungaretti vedeva nella guerra un modo per sentire di appartenere ad un Paese da cui era sempre rimasto lontano.\
-Viene mandato sul fronte del Carso dove scrive alcune delle poesie che finiranno ne *L'Allegria*.
+Viene mandato sul fronte del Carso dove scrive alcune delle poesie che finiranno ne [*L'Allegria*][allegria].
 
 Nel `1936` si trasferisce in `Brasile`, dove gli è stata offerta la `cattedra di Letteratura italiana` all'università di San Paolo.
 
@@ -23,6 +23,26 @@ La fama arriva nel dopoguerra con la pubblicazione di molte delle sue opere.
 Negli ultimi anni Ungaretti scrive e viaggia, anche negli Stati Uniti dove insegnerà a New York.
 
 Muore a `Milano` nel `giugno 1970`.
+
+## Opere
+
+Le poesie di Ungaretti presenti in [*L'Allegria*][allegria] hanno alcuni tratti caratteristici:
+- L'`estrema brevità dei versi`
+- La `liberazione metrica`
+- L'`espressionismo lessicale`: cioè l'usare vocaboli che riescano a portare alla mente condizioni di pena, dolore e afflizione
+- La `ricchezza delle analogie`
+
+Utilizza quindi uno `stile nuovo`, ma parla di `cose antichissime e molto serie`.
+
+In *Sentimento del tempo* Ungaretti però attenua molto queste novità per proporre un `nuovo modello classico`, erano infatti presenti soggetti ispirati alla `mitologia antica`.\
+Questa raccolta diventò anche il modello per i cosiddetti poeti ermetici, nella cui poesia la `suggestione` e l'`evocazione` dovevano prevalere sul concreto.
+
+[*L'Allegria*][allegria] ha avuto un ruolo fondamentale in quanto parla della `guerra` e delle `tetre condizioni di vita dei soldati nelle trincee`, sono anche un `monito contro gli entusiasmi bellicisti`.
+
+### *L'Allegria*
+(1942)
+
+[allegria]: #l-allegria
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 
