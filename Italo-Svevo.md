@@ -70,6 +70,15 @@ Per Svevo il passato, il contenitore di fatti da cui attingere, non esiste: dime
 
 I temi della `memoria` e della `coscienza` a cui Svevo si ispira erano già stati esplorati da autori come [Marcel Proust][marcel-proust] in [*Alla ricerca del tempo perduto*][alla-ricerca-del-tempo-perduto].
 
+*La coscienza di Zeno* è stata influenzata da Freud e la sua `psicoanalisi`, la narrazione che Zeno porta avanti è infatti un esercizio terapeutico.\
+Svevo si è però spesso dimostrato riluttante da ammettere il suo debito nei confronti di Freud.
+
+Svevo non aveva interesse nello scrivere un romanzo sulla psicoanalisi, ma riteneva comunque che i `disturbi psichici` hanno un `alto potenziale narrativo`. Un esempio sono gli `atti mancati`, ovvero ciò che una persona compie inconsciamente per evitare un qualcosa che non si vuole fare: una scappatoia.
+
+Questo rappresentare cose che possono in fin dei conti capitare un po' a tutti, come gli atti mancati e i *lapsus*, contribuisce al [`realismo`][realismo] del romanzo e può svelare i veri intenti dei personaggi senza la presenza di un narratore.
+
+#### Struttura
+
 #### Trama
 
 Nuovamente ambientata a Trieste la vicenda ha come protagonista `Zeno Cosini`, giudicato debole e inconcludente: cambia infatti continuamente facoltà universitaria senza completare gli studi, non riesce inoltre ad abbandonare il vizio del fumo.\
@@ -90,5 +99,6 @@ Zeno arriva addirittura ad immaginare un ordigno che ridurrà la Terra in una ne
 [luigi-pirandello]: Luigi-Pirandello.md
 [marcel-proust]: Marcel-Proust.md
 [alla-ricerca-del-tempo-perduto]: Marcel-Proust.md#alla-ricerca-del-tempo-perduto
+[realismo]: Realismo.md
 
 [prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
