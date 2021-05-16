@@ -79,6 +79,15 @@ Questo rappresentare cose che possono in fin dei conti capitare un po' a tutti, 
 
 #### Struttura
 
+Il romanzo si divide in otto capitoli, non in ordine cronologico di eventi ma sono dedicati ad un particolare tema o aspetto della vita del protagonista.\
+Viene riprodotto così il `funzionamento della memoria`: il ricordo di un fatto ne richiama altri analoghi.
+
+La velocità del racconto è molto varia: ci possono essere pochi giorni che occupano molte pagine o molti anni riassunti in poche pagine.\
+Il tempo si divide perciò in tre dimensioni:
+- `Tempo della storia`: successione naturale degli eventi
+- `Tempo del racconto`: successione degli eventi come vengono presentati nel romanzo
+- `Tempo della narrazione`: il presente in cui Zeno scrive la sua autobiografia
+
 #### Trama
 
 Nuovamente ambientata a Trieste la vicenda ha come protagonista `Zeno Cosini`, giudicato debole e inconcludente: cambia infatti continuamente facoltà universitaria senza completare gli studi, non riesce inoltre ad abbandonare il vizio del fumo.\
