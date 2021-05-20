@@ -16,7 +16,7 @@ Nel `1936` si trasferisce in `Brasile`, dove gli è stata offerta la `cattedra d
 
 Nel `1942`, all'entrata in guerra del Brasile a fianco degli Alleati, torna a `Roma`, dove viene nominato professore "per chiara fama" all'università La Sapienza.
 
-L'esser stato riconosciuto dal regime fascista della massima onorificenza gli costò, dopo la caduta del fascismo, la temporanea sospensione dall'insegnamento.
+L'esser stato riconosciuto dal [regime fascista][fascismo] della massima onorificenza gli costò, dopo la caduta del fascismo, la temporanea sospensione dall'insegnamento.
 
 La fama arriva nel dopoguerra con la pubblicazione di molte delle sue opere.
 
@@ -43,10 +43,20 @@ Questa raccolta diventò anche il modello per i cosiddetti poeti ermetici, nella
 (1942)
 
 Uscito nel 1942 ma l'assetto del libro è già fissato nel `1932`.\
-Il titolo originale era *Allegria di naufragi*.
+Il titolo originale era *Allegria di naufragi*.\
+La scelta del titolo si lega al `sentimento di euforia` che precede la morte.
+
+#### Struttura
+
+Si divide in cinque sezioni:
+- *`Ultime`*: `congedo da Alessandria` e le `prime esperienze giovanili`
+- *`Il porto sepolto`*: `guerra di trincea`
+- *`Naufragi`* e *`Girovago`*: `impulso dell'io al nomadismo`, come un `moderno Ulisse`
+- *`Prime`*: inaugura una `nuova prospettiva`, qui acquista importanza il `tema della memoria e del suo recupero`, poi sviluppato in *Sentimento del tempo*
 
 [allegria]: #lallegria
 
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 
 [prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
+[fascismo]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md
