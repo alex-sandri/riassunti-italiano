@@ -54,8 +54,29 @@ Si divide in cinque sezioni:
 - *`Naufragi`* e *`Girovago`*: `impulso dell'io al nomadismo`, come un `moderno Ulisse`
 - *`Prime`*: inaugura una `nuova prospettiva`, qui acquista importanza il `tema della memoria e del suo recupero`, poi sviluppato in *Sentimento del tempo*
 
+Ne *L'Allegria* Ungaretti utilizza le varie novità introdotte dalle avanguardie.\
+Dal [`futurismo`][futurismo] eredita:
+- La `rinuncia quasi totale della punteggiatura`
+- L'utilizzo del `participio`
+- La riduzione al `minimo giro sintattico della frase`
+
+Non segue però i futuristi nella loro pretesa di rimuovere verbi e aggettivi.
+
+Ungaretti distingue tra il suono di una parola, il `significante`, e la sua capacità di evocare l'oggetto definito, il `significato`.\
+Per Ungaretti il poeta deve trovare un equilibrio tra significante e significato, ispirandosi al poeta francese `Mallarmé`, per rievocare nel lettore un concetto o la realtà, magari attraverso il filtro della `memoria`.
+
+#### Poesie significative
+
+- `Veglia`
+- `Fratelli`
+- `I fiumi`
+- `San Martino del Carso`
+- `Mattina`
+- `Soldati`
+
 [allegria]: #lallegria
 
+[futurismo]: Futurismo.md
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 
 [prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
