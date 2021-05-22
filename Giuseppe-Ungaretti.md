@@ -74,6 +74,15 @@ Per Ungaretti il poeta deve trovare un equilibrio tra significante e significato
 - `Mattina`
 - `Soldati`
 
+### *Il dolore*
+(1947)
+
+Il tema centrale è l'`inesorabilità del tempo che scorre`.
+
+È ispirato a eventi traumatici che spezzano la linearità del normale corso degli eventi:
+- `eventi personali`: `morte del fratello e del figlio`
+- `eventi storici`: [`seconda guerra mondiale`][seconda-guerra-mondiale]
+
 [allegria]: #lallegria
 
 [futurismo]: Futurismo.md
@@ -81,3 +90,4 @@ Per Ungaretti il poeta deve trovare un equilibrio tra significante e significato
 
 [prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
 [fascismo]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md
+[seconda-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-seconda-guerra-mondiale.md
