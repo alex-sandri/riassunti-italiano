@@ -15,7 +15,7 @@ Nel `1927` si trasferisce a `Firenze`, qui frequenta il `caffè delle Giubbe ros
 Durante questo suo soggiorno conosce `Drusilla Tanzi`, con la quale nasce un legame che però durerà poco.\
 Sempre a Firenze frequenta `Irma Brandeis`, ma non rende nota questa sua relazione a causa di quella con la Tanzi.
 
-nel `1938`, dopo la promulgazione delle [leggi razziali][leggi-razziali], interrompe la relazione con Irma e viene licenziato dal suo incarico di direttore del *Vieusseux*, in quanto non aveva mai aderito al PNF.
+Nel `1938`, dopo la promulgazione delle [leggi razziali][leggi-razziali], interrompe la relazione con Irma e viene licenziato dal suo incarico di direttore del *Vieusseux*, in quanto non aveva mai aderito al PNF.
 
 Dopo la guerra entra a far parte del `Comitato per la cultura e l'arte`, nominato dal [CLN][resistenza-in-italia].
 
