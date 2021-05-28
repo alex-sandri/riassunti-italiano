@@ -62,7 +62,27 @@ Il fatto che Montale parli di esperienze reali e non ideali rende spesso diffici
 Nonostante questa difficoltà di interpretazione la sua poesia ha sempre un significato.\
 Per Montale la sua poesia ha una `funzione conoscitiva`, ovvero permette di cogliere aspetti della realtà che sfuggono ai più.
 
+## Significato storico
+
+La storia della poesia italiana del Novecento si divide tra un prima e un dopo Montale.
+
+Lo stile di Montale è il cosiddetto `classicismo paradossale`:
+- Classicismo perché eredita alcuni elementi classici come la donna-angelo dagli stilnovisti, non si allinea però con i movimenti suoi contemporanei, come il [Futurismo][futurismo]
+- Paradossale perché quegli elementi classici sono calati nell'esperienza biografica dell'autore e nella realtà storica del Novecento.\
+  Per Montale la donna protegge il mondo dal male del suo presente: la [seconda guerra mondiale][seconda-guerra-mondiale]
+
+Lo stile di Montale è dato, insomma, dall'utilizzo di un `vocabolario colto` e dell'`endecasillabo`, insieme al `lessico dell'uso quotidiano`.\
+Gioca inoltre con le rime, per esempio utilizzando `rime interne` o `rime ipermetre`, ottenute con l'aggiunta di una sillaba in più a una delle parole rimanti, come *amico* / *canico-la*.
+
+Nel Novecento cambia però la `posizione che la poesia occupa nel sistema dei generi letterari`, si passa infatti dalla grande importanza all'inizio del secolo ([Pascoli][giovanni-pascoli], [d'Annunzio][gabriele-d-annunzio], [Ungaretti][giuseppe-ungaretti]) ad un'importanza marginale nella seconda metà, quando si userà di più il romanzo.\
+Questo cambiamento si riflette anche sui testi di Montale, la cui poesia passa attraverso entrambi i periodi.
+
 [ossi-di-seppia]: #ossi-di-seppia
+
+[futurismo]: Futurismo.md
+[gabriele-d-annunzio]: Gabriele-D-Annunzio.md
+[giovanni-pascoli]: Giovanni-Pascoli.md
+[giuseppe-ungaretti]: Giuseppe-Ungaretti.md
 
 [leggi-razziali]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md#fn-4
 [resistenza-in-italia]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-seconda-guerra-mondiale.md#la-guerra-e-la-resistenza-in-italia-dal-1943-al-1945
