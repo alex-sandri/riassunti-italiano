@@ -18,6 +18,7 @@
 - [Italo Svevo](Italo-Svevo.md)
 - [Giuseppe Ungaretti](Giuseppe-Ungaretti.md)
 - [Eugenio Montale](Eugenio-Montale.md)
+- [Umberto Saba](Umberto-Saba.md)
 
 ### Movimenti
 
