@@ -77,8 +77,31 @@ Gioca inoltre con le rime, per esempio utilizzando `rime interne` o `rime iperme
 Nel Novecento cambia però la `posizione che la poesia occupa nel sistema dei generi letterari`, si passa infatti dalla grande importanza all'inizio del secolo ([Pascoli][giovanni-pascoli], [d'Annunzio][gabriele-d-annunzio], [Ungaretti][giuseppe-ungaretti]) ad un'importanza marginale nella seconda metà, quando si userà di più il romanzo.\
 Questo cambiamento si riflette anche sui testi di Montale, la cui poesia passa attraverso entrambi i periodi.
 
+## Opere
+
+### *Ossi di seppia*
+(1925)
+
+#### Struttura
+
+Si divide in quattro parti:
+- *`Movimenti`*
+- *`Ossi di seppia`*
+- *`Mediterraneo`*
+- *`Meriggi e ombre`*
+
+#### Titolo
+
+L'osso di seppia è la conchiglia interna del mollusco, si tratta perciò di `scarti del mare`.
+
+Si inserisce perciò nella linea inaugurata da [Charles Baudelaire][charles-baudelaire], il quale diede il titolo di *Épaves*, appunto scarti, alle poesie che rimasero fuori da [*I fiori del male*][i-fiori-del-male].
+
+Questo utilizzare un `oggetto povero` sta a significare il declino della popolarità della poesia, che sopravvive come un relitto e, solo chi si libera dal grigiore dell'esistenza, può ancora darne un significato.
+
 [ossi-di-seppia]: #ossi-di-seppia
 
+[charles-baudelaire]: Charles-Baudelaire.md
+[i-fiori-del-male]: Charles-Baudelaire.md#i-fiori-del-male
 [futurismo]: Futurismo.md
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 [giovanni-pascoli]: Giovanni-Pascoli.md
