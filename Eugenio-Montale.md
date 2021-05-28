@@ -52,6 +52,16 @@ Montale ha la capacità di rappresentare in maniera memorabile la `realtà concr
 
 Il suo `vocabolario` è `molto ampio`, per poter rappresentare il reale al meglio, utilizza infatti `termini gergali`, `dialettali` e `tecnici`.
 
+Il suo secondo tema ricorrente, l'`amore per una donna lontana o scomparsa` e il tentativo di comunicarci.\
+Questa donna può essere una `figura grammaticale` oppure una `donna reale`.\
+La sua esperienza sentimentale la esprime sempre in modo `oggettivo`.
+
+Per Montale `non c'è parola che non possa essere considerata "poetica"`, al contrario della tradizione italiana di separare il linguaggio della prosa da quello della poesia.
+
+Il fatto che Montale parli di esperienze reali e non ideali rende spesso difficile, a volte impossibile, decifrarne il significato.\
+Nonostante questa difficoltà di interpretazione la sua poesia ha sempre un significato.\
+Per Montale la sua poesia ha una `funzione conoscitiva`, ovvero permette di cogliere aspetti della realtà che sfuggono ai più.
+
 [ossi-di-seppia]: #ossi-di-seppia
 
 [leggi-razziali]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md#fn-4
