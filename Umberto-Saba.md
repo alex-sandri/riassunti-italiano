@@ -23,6 +23,15 @@ Nel 1919 rileva una libreria antiquaria, un mestiere che gli offrirà un rifugio
 
 Esce nel `1921` [*Il Canzoniere*][il-canzoniere], il volume che arricchirà fino alla sua morte di tutte le sue poesie.
 
+Nel 1929 incontra lo psicanalista Edoardo Weiss.\
+Utilizzerà la psicanalisi come ultima possibilità di cura. Anche se non guarirà mai userà da allora in poi la `psicanalisi come strumento di conoscenza dell'uomo`.
+
+Nel 1938 vengono promulgate le [leggi razziali][leggi-razziali]: Saba, di madre ebrea, si trova costretto a fuggire a Parigi.
+
+Dopo l'armistizio dell'8 settembre 1943 è costretto a fuggire da Trieste: si trasferisce a `Firenze`, dove `vive nascosto` con i suoi cari.
+
+Nel gennaio 1945, quando il Nord Italia era ancora occupato dai nazifascisti, si trasferisce a Roma.
+
 ## Opere
 
 ## *Il Canzoniere*
@@ -33,4 +42,5 @@ Esce nel `1921` [*Il Canzoniere*][il-canzoniere], il volume che arricchirà fino
 [giuseppe-ungaretti]: Giuseppe-Ungaretti.md
 
 [fascismo]:  https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md
+[leggi-razziali]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md#fn-4
 [prima-guerra-mondiale]:  https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
