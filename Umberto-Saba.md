@@ -28,7 +28,7 @@ Esce nel `1921` [*Il Canzoniere*][il-canzoniere], il volume che arricchirà fino
 ## *Il Canzoniere*
 (1921)
 
-[il-canzoniere]: #il-canzoniere.md
+[il-canzoniere]: #il-canzoniere
 
 [giuseppe-ungaretti]: Giuseppe-Ungaretti.md
 
