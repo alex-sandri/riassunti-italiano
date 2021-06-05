@@ -1,7 +1,5 @@
 # Riassunti Italiano
 
-***Nota:** i primi riassunti potrebbero essere insufficienti in quanto molto più sintetici.*
-
 ## Indice
 
 ### Autori
