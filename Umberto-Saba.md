@@ -30,7 +30,9 @@ Nel 1938 vengono promulgate le [leggi razziali][leggi-razziali]: Saba, di madre 
 
 Dopo l'armistizio dell'8 settembre 1943 è costretto a fuggire da Trieste: si trasferisce a `Firenze`, dove `vive nascosto` con i suoi cari.
 
-Nel gennaio 1945, quando il Nord Italia era ancora occupato dai nazifascisti, si trasferisce a Roma.
+Nel gennaio 1945, quando il Nord Italia era ancora occupato dai nazifascisti, si trasferisce a Roma, qui, dopo la guerra, vivrà uno degli anni più felici della sua vita.
+
+Nel 1948 pubblica sotto lo pseudonimo di Giuseppe Carimandrei un'<code>analisi e commento in terza persona delle poesie de [*Il Canzoniere*][il-canzoniere]</code>.
 
 ## Opere
 
