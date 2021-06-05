@@ -50,7 +50,7 @@ Al suo primo apparire la poesia di Saba fu accolta, all'inizio del XX secolo, co
 
 ## Opere
 
-## *Il Canzoniere*
+### *Il Canzoniere*
 (1921)
 
 Sebbene Saba pubblichi lungo la sua carriera diverse raccolte poetiche, a partire dal 1921, vengono inserite in un solo libro, *Il Canzoniere*, tutte le sue poesie. Saba lo definisce un *romanzo psicologico*.
