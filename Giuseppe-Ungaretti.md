@@ -88,6 +88,6 @@ Il tema centrale è l'`inesorabilità del tempo che scorre`.
 [futurismo]: Futurismo.md
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
 
-[prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
-[fascismo]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md
-[seconda-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-seconda-guerra-mondiale.md
+[prima-guerra-mondiale]: https://storia.alexsandri.com/La-prima-guerra-mondiale
+[fascismo]: https://storia.alexsandri.com/L-Italia-tra-le-due-guerre-il-fascismo
+[seconda-guerra-mondiale]: https://storia.alexsandri.com/La-seconda-guerra-mondiale
