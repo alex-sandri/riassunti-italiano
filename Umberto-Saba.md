@@ -41,6 +41,6 @@ Nel gennaio 1945, quando il Nord Italia era ancora occupato dai nazifascisti, si
 
 [giuseppe-ungaretti]: Giuseppe-Ungaretti.md
 
-[fascismo]:  https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md
-[leggi-razziali]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md#fn-4
-[prima-guerra-mondiale]:  https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
+[fascismo]:  https://storia.alexsandri.com/L-Italia-tra-le-due-guerre-il-fascismo
+[leggi-razziali]: https://storia.alexsandri.com/L-Italia-tra-le-due-guerre-il-fascismo#fn-ref-4
+[prima-guerra-mondiale]:  https://storia.alexsandri.com/La-prima-guerra-mondiale
