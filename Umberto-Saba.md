@@ -42,6 +42,8 @@ Nel 1956 muore sua moglie Lina. Esce in questa occasione per l'ultima volta dall
 
 Muore il `25 agosto 1957`.
 
+## Poetica
+
 ## Opere
 
 ## *Il Canzoniere*
