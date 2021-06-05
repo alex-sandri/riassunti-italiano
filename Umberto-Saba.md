@@ -34,6 +34,14 @@ Nel gennaio 1945, quando il Nord Italia era ancora occupato dai nazifascisti, si
 
 Nel 1948 pubblica sotto lo pseudonimo di Giuseppe Carimandrei un'<code>analisi e commento in terza persona delle poesie de <a href="#il-canzoniere"><i>Il Canzoniere</i></a></code>.
 
+Nel 1953 scrive *Ernesto*, lungo racconto "scandaloso", data l'omosessualità del protagonista, che rimarrà incompiuto e che Saba avrebbe voluto distruggere. Questo è spiegato dal fatto che si potrebbe trattare di un racconto autobiografico.
+
+Nello stesso anno riceve la <code>laurea <i>honoris causa</i></code> da parte dell'università di Roma.
+
+Nel 1956 muore sua moglie Lina. Esce in questa occasione per l'ultima volta dalla clinica dove è ricoverato per assistere al suo funerale.
+
+Muore il `25 agosto 1957`.
+
 ## Opere
 
 ## *Il Canzoniere*
