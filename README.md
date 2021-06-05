@@ -31,7 +31,3 @@
 ---
 
 ***Nota**: questi riassunti sono basati sul libro [Cuori intelligenti Edizione VERDE Volume 3](https://www.amazon.it/s?k=ISBN+978-88-6964-473-3).*
-
----
-
-&copy; 2021 - Alex Sandri
