@@ -32,7 +32,7 @@ Dopo l'armistizio dell'8 settembre 1943 è costretto a fuggire da Trieste: si tr
 
 Nel gennaio 1945, quando il Nord Italia era ancora occupato dai nazifascisti, si trasferisce a Roma, qui, dopo la guerra, vivrà uno degli anni più felici della sua vita.
 
-Nel 1948 pubblica sotto lo pseudonimo di Giuseppe Carimandrei un'<code>analisi e commento in terza persona delle poesie de [*Il Canzoniere*][il-canzoniere]</code>.
+Nel 1948 pubblica sotto lo pseudonimo di Giuseppe Carimandrei un'<code>analisi e commento in terza persona delle poesie de <a href="#il-canzoniere"><i>Il Canzoniere</i></a></code>.
 
 ## Opere
 
