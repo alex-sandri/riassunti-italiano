@@ -15,5 +15,7 @@ Da questa esperienza nasce il poema *Zang Tumb Tumb*, che esalta la guerra come 
 Al pari di molti altri scrittori, come [Gabriele d'Annunzio][gabriele-d-annunzio], allo scoppio della [prima guerra mondiale][prima-guerra-mondiale] Marinetti si schiera con gli `interventisti`, posizione condivisa da tutti i futuristi, dei quali alcuni si arruolarono volontari, per poi perdere la vita.
 
 [filippo-tommaso-marinetti]: #filippo-tommaso-marinetti
+
 [gabriele-d-annunzio]: Gabriele-D-Annunzio.md
-[prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
+
+[prima-guerra-mondiale]: https://storia.alexsandri.com/La-prima-guerra-mondiale
