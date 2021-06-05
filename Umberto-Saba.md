@@ -44,6 +44,10 @@ Muore il `25 agosto 1957`.
 
 ## Poetica
 
+Al suo primo apparire la poesia di Saba fu accolta, all'inizio del XX secolo, come un prodotto `fuori moda`, situata in un contesto storico in cui dominavano le avanguardie, come il [Futurismo][futurismo].
+
+È un poeta `isolato`: al contrario dei suoi contemporanei che lavoravano per innovare la poesia, lui conosce per la maggior parte solo i `modelli scolastici` come Leopardi, Manzoni e Parini.
+
 ## Opere
 
 ## *Il Canzoniere*
@@ -55,6 +59,7 @@ Si tratta quindi di un libro di una vita intera, finalizzato soltanto dopo la mo
 
 [il-canzoniere]: #il-canzoniere
 
+[futurismo]: Futurismo.md
 [giuseppe-ungaretti]: Giuseppe-Ungaretti.md
 
 [fascismo]:  https://storia.alexsandri.com/L-Italia-tra-le-due-guerre-il-fascismo
