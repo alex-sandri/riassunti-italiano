@@ -107,6 +107,6 @@ Questo utilizzare un `oggetto povero` sta a significare il declino della popolar
 [giovanni-pascoli]: Giovanni-Pascoli.md
 [giuseppe-ungaretti]: Giuseppe-Ungaretti.md
 
-[leggi-razziali]: https://github.com/alex-sandri/riassunti-storia/blob/main/L-Italia-tra-le-due-guerre-il-fascismo.md#fn-4
-[resistenza-in-italia]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-seconda-guerra-mondiale.md#la-guerra-e-la-resistenza-in-italia-dal-1943-al-1945
-[seconda-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-seconda-guerra-mondiale.md
+[leggi-razziali]: https://storia.alexsandri.com/L-Italia-tra-le-due-guerre-il-fascismo#fn-ref-4
+[resistenza-in-italia]: https://storia.alexsandri.com/La-seconda-guerra-mondiale#la-guerra-e-la-resistenza-in-italia-dal-1943-al-1945
+[seconda-guerra-mondiale]: https://storia.alexsandri.com/La-seconda-guerra-mondiale
