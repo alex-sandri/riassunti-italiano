@@ -48,6 +48,8 @@ Al suo primo apparire la poesia di Saba fu accolta, all'inizio del XX secolo, co
 
 È un poeta `isolato`: al contrario dei suoi contemporanei che lavoravano per innovare la poesia, lui conosce per la maggior parte solo i `modelli scolastici` come Leopardi, Manzoni e Parini.
 
+Per Saba la `poesia è autoconoscenza`: concetto non nuovo ma a cui Saba aggiunge un carattere, ovvero la poesia non deve essere `mai menzognera`, anche a costo di sacrificare dei versi stilisticamente più rilevanti. Ossia la convinzione che sia meglio scrivere dei versi poco riusciti ma `aderenti` alle idee che si volevano esprimere, che versi meravigliosi ma tradendo ciò che si voleva esprimere.
+
 ## Opere
 
 ### *Il Canzoniere*
