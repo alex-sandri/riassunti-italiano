@@ -47,6 +47,10 @@ Muore il `25 agosto 1957`.
 ## *Il Canzoniere*
 (1921)
 
+Sebbene Saba pubblichi lungo la sua carriera diverse raccolte poetiche, a partire dal 1921, vengono inserite in un solo libro, *Il Canzoniere*, tutte le sue poesie. Saba lo definisce un *romanzo psicologico*.
+
+Si tratta quindi di un libro di una vita intera, finalizzato soltanto dopo la morte dell'autore con le ultime due sezioni: *Epigrafe* e *Sei poesie della vecchiaia*.
+
 [il-canzoniere]: #il-canzoniere
 
 [giuseppe-ungaretti]: Giuseppe-Ungaretti.md
