@@ -110,4 +110,4 @@ Zeno arriva addirittura ad immaginare un ordigno che ridurrà la Terra in una ne
 [alla-ricerca-del-tempo-perduto]: Marcel-Proust.md#alla-ricerca-del-tempo-perduto
 [realismo]: Realismo.md
 
-[prima-guerra-mondiale]: https://github.com/alex-sandri/riassunti-storia/blob/main/La-prima-guerra-mondiale.md
+[prima-guerra-mondiale]: https://storia.alexsandri.com/La-prima-guerra-mondiale
