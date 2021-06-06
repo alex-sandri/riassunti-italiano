@@ -63,6 +63,13 @@ In alcune raccolte degli anni Venti e Trenta, Saba infatti cambia stile preferis
 
 Nelle ultime raccolte Saba riesce ad usare `canto e racconto` insieme in `poesie brevi`. La sua voce guadagna `credibilità` e osserva la realtà con uno `sguardo partecipe e compassionevole`.
 
+La poesia di Saba divenne più popolare nel secondo dopoguerra, quando l'interesse per la poesia ermetica diminuì in quanto incapace di esprimere la nuova aspirazione degli artisti a rappresentare la realtà.\
+Questa sua poesia però non faceva parte di un movimento, era una sua `via solitaria`: si basava sulla sua esperienza personale, seppe fare della sua realtà materia di poesia.
+
+Sempre in questo periodo pubblica il suo primo libro di prose, *Scorciatoie e raccontini*. Si tratta di prose brevi, come aforismi.\
+Hanno ispirato quest'opera `Friedrich Nietzsche`, per la sua capacità di distruggere le credenze su cui si basa la società occidentale (come la morale cristiana), e `Sigmund Freud`, che fa lo stesso ma attraverso la scoperta e lo studio dell'inconscio.\
+I `temi` trattati sono `vari`: letteratura, attualità, cronaca, ricordi di giovinezza.
+
 ## Opere
 
 ### *Il Canzoniere*
