@@ -1,5 +1,7 @@
 # Riassunti Italiano
 
+Riassunti del programma di Lingua e Lettere Italiane di quinta superiore
+
 ## Indice
 
 ### Autori
