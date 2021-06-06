@@ -53,6 +53,16 @@ Per Saba la `poesia è autoconoscenza`: concetto non nuovo ma a cui Saba aggiung
 Quando verso gli anni Venti, fece esperienza diretta della psicanalisi, ebbe l'impressione di aver scoperto un nuovo modo d'interpretare la realtà. Era vero però solo in parte, infatti già precedentemente aveva indagato sull'uomo risalendo alla sua infanzia, la sua vita familiare e nei traumi della sua formazione.\
 Indaga sulla `solitudine`, sul `contrasto con la società` che in lui nascono da eventi remoti che lo hanno condizionato e hanno reso ipersensibile la sua psiche: ha attraversato la [prima][prima-guerra-mondiale] e la [seconda][seconda-guerra-mondiale] guerra mondiale, il [fascismo][fascismo] e l'antisemitismo.
 
+Nonostante il suo pessimismo Saba è un autore che `celebra l'esistenza`. [*Il Canzoniere*][il-canzoniere], per esempio, è il `diario di una vita compiutamente vissuta`, al cui interno si può notare come cambia la sua poetica al cambiare della cultura esterna.
+
+In *Trieste e una donna* è presente il cosiddetto `paesaggismo antropologico`, ovvero non c'è paesaggio che non sia abitato e anche gli animali sono in continuo dialogo con gli umani.
+Nello stesso viene descritta con precisione la crisi coniugale in cui venne coinvolto: i pensieri e i dialoghi vengono descritti senza filtri.
+
+Cambia leggermente in due raccolte, *Preludio e canzonette* e *Preludio e fughe*, dove si avvicina ad uno stile più musicale con `versi brevi` scanditi secondo una `metrica regolare`.\
+In alcune raccolte degli anni Venti e Trenta, Saba infatti cambia stile preferisce spesso al racconto il `canto di uno stato d'animo`, la `meditazione` su temi come il senso della vita o l'amore. La sua poesia si fa anche più breve.
+
+Nelle ultime raccolte Saba riesce ad usare `canto e racconto` insieme in `poesie brevi`. La sua voce guadagna `credibilità` e osserva la realtà con uno `sguardo partecipe e compassionevole`.
+
 ## Opere
 
 ### *Il Canzoniere*
