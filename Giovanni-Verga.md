@@ -40,6 +40,16 @@ Utilizza anche il `discorso indiretto libero`: un tipo di discorso riportato dov
 
 Una raccoglitrice di olive che va in giro in cerca di un lavoro per aiutare la madre malata.
 
+### *Vita dei campi*
+(1880)
+
+#### *Rosso Malpelo*
+(1878)
+
+Malpelo, Rosso dato il colore dei capelli, è un ragazzo che lavora come minatore in una cava (le *zolfare*), in cui tra l'altro lavora anche suo padre (*società immutabile*), e che convive giornalmente con lo sfruttamento minorile (verso lui o i suoi "colleghi").
+
+Questa novella si basa sull'inchiesta condotta da *Sidney Sonnino* e *Leopoldo Franchetti* in *La Sicilia nel 1876* (1877) dove si trattava il tema del lavoro minorile e della distanza sempre più ampia del Sud rispetto al Nord dopo un'unificazione che si può considerare tale solo a livello di confini. Distanza accentuata ulteriormente durante l'[*età giolittiana*][eta-giolittiana].
+
 ### *I Malavoglia*
 (1881)
 
@@ -51,7 +61,10 @@ Il titolo originale era *Padron 'Ntoni* e racconta del disastro a cui va incontr
 
 Nato povero, grazie al lavoro e all'astuzia, riesce a salire tutti i gradini della scala sociale ma, giunto alla fine della sua vita, capisce che tutto è stato vano.
 
-[emile-zola]: Emile-Zola.md
 [malavoglia]: #i-malavoglia
 [mastro-don-gesualdo]: #mastro-don-gesualdo
 [verismo]: Verismo.md
+
+[emile-zola]: Emile-Zola.md
+
+[eta-giolittiana]: https://storia.alexsandri.com/Eta-giolittiana-e-Belle-epoque#il-doppio-volto-di-giolitti
