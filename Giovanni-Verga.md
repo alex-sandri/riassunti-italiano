@@ -19,7 +19,7 @@ Muore a `Catania` nel `1922`.
 
 La carriera di Verga si può suddividere in tre fasi:
 - `Fase giovanile`: prime prove letterarie
-- `Fase verista`: *Vita dei campi*, *[I Malavoglia][malavoglia]*, *[Mastro-don Gesualdo][mastro-don-gesualdo]*
+- `Fase verista`: [*Vita dei campi*][vita-dei-campi], [*I Malavoglia*][malavoglia], [*Mastro-don Gesualdo*][mastro-don-gesualdo]
 - `Fase teatrale`: teatro ed educazione dei nipoti
 
 Nelle opere di Verga si possono trovare tre temi centrali:
@@ -63,8 +63,9 @@ Nato povero, grazie al lavoro e all'astuzia, riesce a salire tutti i gradini del
 
 [malavoglia]: #i-malavoglia
 [mastro-don-gesualdo]: #mastro-don-gesualdo
-[verismo]: Verismo.md
+[vita-dei-campi]: #vita-dei-campi
 
 [emile-zola]: Emile-Zola.md
+[verismo]: Verismo.md
 
 [eta-giolittiana]: https://storia.alexsandri.com/Eta-giolittiana-e-Belle-epoque#il-doppio-volto-di-giolitti
