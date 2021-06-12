@@ -45,6 +45,17 @@ Una raccoglitrice di olive che va in giro in cerca di un lavoro per aiutare la m
 ### *Vita dei campi*
 (1880)
 
+Prima raccolta di novelle completamente [verista][verismo].\
+Tratta della vita quotidiana di persone umili con la Sicilia come sfondo.
+
+#### *Fantasticheria*
+(1878)
+
+Qui viene descritto il cosiddetto *`ideale dell'ostrica`*, ovvero quella convinzione che le persone più umili debbano rimanere ancorate alla tradizione, portando avanti il lavoro che aveva sempre svolto la propria famiglia.\
+Il tentativo di cambiare vita porterà di sicuro al fallimento: il tema ricorrente di verga, ovvero l'*immutabilità della società*.
+
+Questa novella si può considerare come una specie di anteprima de [*I Malavoglia*][malavoglia], è infatti ambientata nello stesso villaggo.
+
 #### *Rosso Malpelo*
 (1878)
 
@@ -57,6 +68,13 @@ Questa novella si basa sull'inchiesta condotta da *Sidney Sonnino* e *Leopoldo F
 
 Primo dei cinque romanzi che avrebbero dovuto costituire il *Ciclo dei vinti*, originariamente intitolato *Marea*.\
 Il titolo originale era *Padron 'Ntoni* e racconta del disastro a cui va incontro la famiglia dopo il naufragio di una barca su cui avevano investito tutti i soldi.
+
+### *Novelle rusticane*
+(1882)
+
+Intesa inizialmente come parte integrante di [*Vita dei campi*][vita-dei-campi], questa raccolta si fa più `reale`, `razionale` e anche più `crudo`. L'`accumulo della ricchezza` (la *religione della roba*) prende il sopravvento sulla *religione della famiglia*.
+
+Inoltre, al contrario di [*Vita dei campi*][vita-dei-campi] che rappresentava spesso singoli individui, si hanno ora più spesso racconti con al centro una `comunità`.
 
 ### *Mastro-don Gesualdo*
 (1889)
