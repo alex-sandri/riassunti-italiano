@@ -35,6 +35,8 @@ Utilizza l'`artificio della regressione` (vedi [Verismo][verismo]):
 
 Utilizza anche il `discorso indiretto libero`: un tipo di discorso riportato dove viene omessa la clausola citante. Questa scelta è dovuta alla volontà di Verga di eclissare l'autore, senza quindi dargli uno spazio per descrivere l'ambiente o i pensieri. Questo incarico spetta quindi ai personaggi stessi.
 
+Queste `tecniche narrative nuove` che riprendono le lezioni dei grandi romanzieri francesi ([*Émile Zola*][emile-zola] e [*Gustave Flaubert*][gustave-flaubert]), ovvero appartenenti al movimento del [*naturalismo*][naturalismo], vengono utilizzate da Verga, dagli anni Settanta del 1800, per raccontare la sua regione, il popolo siciliano.
+
 ### *Nedda*
 (1874)
 
@@ -66,6 +68,8 @@ Nato povero, grazie al lavoro e all'astuzia, riesce a salire tutti i gradini del
 [vita-dei-campi]: #vita-dei-campi
 
 [emile-zola]: Emile-Zola.md
+[gustave-flaubert]: Gustave-Flaubert.md
+[naturalismo]: Naturalismo.md
 [verismo]: Verismo.md
 
 [eta-giolittiana]: https://storia.alexsandri.com/Eta-giolittiana-e-Belle-epoque#il-doppio-volto-di-giolitti
