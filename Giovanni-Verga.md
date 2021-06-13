@@ -72,7 +72,7 @@ Il titolo originale era *Padron 'Ntoni* e racconta del disastro a cui va incontr
 ### *Novelle rusticane*
 (1882)
 
-Intesa inizialmente come parte integrante di [*Vita dei campi*][vita-dei-campi], questa raccolta si fa più `reale`, `razionale` e anche più `crudo`. L'`accumulo della ricchezza` (la *religione della roba*) prende il sopravvento sulla *religione della famiglia*.
+Intesa inizialmente come parte integrante di [*Vita dei campi*][vita-dei-campi], questa raccolta si fa più `reale`, `razionale` e anche più `cruda`. L'`accumulo della ricchezza` (la *religione della roba*) prende il sopravvento sulla *religione della famiglia*.
 
 Inoltre, al contrario di [*Vita dei campi*][vita-dei-campi] che rappresentava spesso singoli individui, si hanno ora più spesso racconti con al centro una `comunità`.
 
