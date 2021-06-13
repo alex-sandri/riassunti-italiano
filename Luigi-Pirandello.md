@@ -101,7 +101,7 @@ Nonostante le differenze in temi si possono comunque riconoscere delle costanti:
 ### *Uno, nessuno e centomila*
 (1926)
 
-La vita di Vitangelo Moscarda scorre tranquilla fino a quando la moglie gli fa notare che il suo naso pende leggermente a destra. Lui allora scopre che gli altri lo vedono ognuno in maniera diversa. Il protagonista si accorge poi di essere considerato da tutti un usuraio e perciò decide di risarcire le vittime della sua banca e poi vuole anche liquidare l'intera banca, dopo queste decisione viene ritenuto pazzo da tutta la comunità e viene abbandonato anche dalla moglie. Si rifugia nell'affetto di Anna Rosa che non appena l'intimità si farà più stringente lo ferirà gravemente. Dopo una lunga convalescenza si ritira in un ospizio da lui fondato, dove rinuncia a tutto, persino al suo nome, cancellando ogni consapevolezza di sé.
+La vita di Vitangelo Moscarda scorre tranquilla fino a quando la moglie gli fa notare che il suo naso pende leggermente a destra. Lui allora scopre che gli altri lo vedono ognuno in maniera diversa. Il protagonista si accorge poi di essere considerato da tutti un usuraio e perciò decide di risarcire le vittime della sua banca per poi liquidare la stessa, dopo queste decisione viene ritenuto pazzo da tutta la comunità e viene abbandonato anche dalla moglie. Si rifugia nell'affetto di Anna Rosa che non appena l'intimità si farà più stringente lo ferirà gravemente. Dopo una lunga convalescenza si ritira in un ospizio da lui fondato, dove rinuncia a tutto, persino al suo nome, cancellando ogni consapevolezza di sé.
 
 [il-fu-mattia-pascal]: #il-fu-mattia-pascal
 [uno-nessuno-e-centomila]: #uno-nessuno-e-centomila
