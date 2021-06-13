@@ -96,7 +96,7 @@ Nonostante le differenze in temi si possono comunque riconoscere delle costanti:
 - Straordinaria `varietà di ambientazioni geografiche e collocazioni sociali`: si va dall'alta borghesia ai contadini, dalla Sicilia alla Germania
 - I personaggi sono ben `caratterizzati fisicamente` e sono tutti degli `sconfitti`, hanno un destino ormai segnato
 - La vita nel complesso è sempre una `tragedia`, ma nei dettagli diventa una `commedia`
-- Utilizza il `discorso indiretto libero`, ma a differenza dei narratori veristi in Pirandello `la voce del personaggio e quella del narratore si fondono perfettamente` e il narratore si identifica completamente con il suo personaggio
+- Utilizza il `discorso indiretto libero`, ma a differenza dei narratori [veristi][verismo] in Pirandello `la voce del personaggio e quella del narratore si fondono perfettamente` e il narratore si identifica completamente con il suo personaggio
 
 ### *Uno, nessuno e centomila*
 (1926)
@@ -105,3 +105,5 @@ La vita di Vitangelo Moscarda scorre tranquilla fino a quando la moglie gli fa n
 
 [il-fu-mattia-pascal]: #il-fu-mattia-pascal
 [uno-nessuno-e-centomila]: #uno-nessuno-e-centomila
+
+[verismo]: Verismo.md
