@@ -17,7 +17,7 @@ Nel frattempo cade vittima di una `forte crisi nervosa`, che si aggraverà man m
 
 Tornato dal servizio militare si sposa con `Lina` (Carolina Wölfler), con cui avrà una figlia.
 
-Durante la [prima guerra mondiale][prima-guerra-mondiale] Saba rimane impegnato nelle retrovia ma, al contrario di [Giuseppe Ungaretti][giuseppe-ungaretti], questo evento non influenzò la sua poesia.
+Durante la [prima guerra mondiale][prima-guerra-mondiale] Saba rimane impegnato nelle retrovie ma, al contrario di [Giuseppe Ungaretti][giuseppe-ungaretti], questo evento non influenzò la sua poesia.
 
 Nel 1919 rileva una libreria antiquaria, un mestiere che gli offrirà un rifugio confortevole durante gli anni del [fascismo][fascismo].
 
