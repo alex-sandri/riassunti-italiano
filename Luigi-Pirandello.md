@@ -72,7 +72,7 @@ L'ultima fase del teatro di Pirandello è costituita da tre opere che si svolgon
 
 ## Opere
 
-Le opere di Pirandello, per quanto varino in forme e generi, i temi trattati rimangono una costante:
+Nelle opere di Pirandello, per quanto varino in forme e generi, i temi trattati rimangono una costante:
 - Ogni individuo alla nascita assume una `forma contingente`, questa però ne limita le possibilità
 - Ogni individuo deve sottostare a dei `vincoli legati alle interazioni sociali`, deve cioè assumere un ruolo, recitare una parte, o meglio più parti a seconda del contesto
 - L'`identità individuale` è sempre relativa allo `sguardo degli altri`
