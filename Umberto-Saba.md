@@ -59,9 +59,9 @@ In *Trieste e una donna* è presente il cosiddetto `paesaggismo antropologico`, 
 Nello stesso viene descritta con precisione la crisi coniugale in cui venne coinvolto: i pensieri e i dialoghi vengono descritti senza filtri.
 
 Cambia leggermente in due raccolte, *Preludio e canzonette* e *Preludio e fughe*, dove si avvicina ad uno stile più musicale con `versi brevi` scanditi secondo una `metrica regolare`.\
-In alcune raccolte degli anni Venti e Trenta, Saba infatti cambia stile preferisce spesso al racconto il `canto di uno stato d'animo`, la `meditazione` su temi come il senso della vita o l'amore. La sua poesia si fa anche più breve.
+In alcune raccolte degli anni Venti e Trenta, Saba infatti cambia stile preferendo spesso al racconto il `canto di uno stato d'animo`, la `meditazione` su temi come il senso della vita o l'amore. La sua poesia si fa anche più breve.
 
-Nelle ultime raccolte Saba riesce ad usare `canto e racconto` insieme in `poesie brevi`. La sua voce guadagna `credibilità` e osserva la realtà con uno `sguardo partecipe e compassionevole`.
+Nelle ultime raccolte Saba riesce ad usare `canto e racconto` all'interno di `poesie brevi`. La sua voce guadagna `credibilità` e osserva la realtà con uno `sguardo partecipe e compassionevole`.
 
 La poesia di Saba divenne più popolare nel secondo dopoguerra, quando l'interesse per la poesia ermetica diminuì in quanto incapace di esprimere la nuova aspirazione degli artisti a rappresentare la realtà.\
 Questa sua poesia però non faceva parte di un movimento, era una sua `via solitaria`: si basava sulla sua esperienza personale, seppe fare della sua realtà materia di poesia.
