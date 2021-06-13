@@ -88,7 +88,7 @@ Mattia Pascal, dopo aver assistito a tante tragedie familiari e aver perso le su
 ### *Novelle per un anno*
 (1922)
 
-Pirandello scrive novelle nel corso di più di quarant'anni di carriera, pubblicate principalmente per interesse economico. Nel `1922` decide di voler raccogliere le sue novelle, dapprima in un volume unico, poi su suggerimento dell'editore in ventiquattro volumi, ne verranno pubblicati però solo quindici.\
+Pirandello scrive novelle nel corso di più di quarant'anni di carriera, pubblicate principalmente per interesse economico. Nel `1922` decide di raccogliere le sue novelle, dapprima in un volume unico, poi su suggerimento dell'editore in ventiquattro volumi, ne verranno pubblicati però solo quindici.\
 Si passa dai primi racconti a tema sentimentale agli ultimi surrealistici e grotteschi.
 
 Nonostante le differenze in temi si possono comunque riconoscere delle costanti:
