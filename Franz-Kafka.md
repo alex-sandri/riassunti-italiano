@@ -6,7 +6,7 @@
 Kafka era un impiegato del vasto apparato burocratico dell'impero austro-ungarico e si dedicava alla scrittura solamente nel tempo libero.\
 Scrisse per tutta la vita e prima di morire lasciò tutto all'amico `Max Brod`, pregandolo di distruggerli. Lui invece gli pubblicò, comincio così, postuma, la fama di Franz Kafka.
 
-Trascorse quasi tutta la sua vita a Praga, visse il momento di transizione dall'impero agli stati nazionali: nacque asburgico e morì cecoslovacco.
+Trascorse quasi tutta la sua vita a Praga, visse il momento di transizione dall'impero agli Stati nazionali: nacque asburgico e morì cecoslovacco.
 
 La sua famiglia apparteneva alla media borghesia ebraica, di origini ceche da parte di padre e tedesche da parte di madre.\
 Fin dall'infanzia fu tormentato da una salute malferma, che lo costrinse a lasciare incompiute molte opere e a ritirarsi presso un sanatorio presso Vienna, dove morì di tubercolosi.
