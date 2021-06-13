@@ -50,7 +50,7 @@ Al suo primo apparire la poesia di Saba fu accolta, all'inizio del XX secolo, co
 
 Per Saba la `poesia è autoconoscenza`: concetto non nuovo ma a cui Saba aggiunge un carattere, ovvero l'`autenticità`, da applicare anche a costo di sacrificare dei versi stilisticamente più rilevanti. Ossia la convinzione che sia meglio scrivere dei versi poco riusciti ma `aderenti` alle idee che si volevano esprimere, che versi meravigliosi ma tradendo ciò che si voleva esprimere.
 
-Quando verso gli anni Venti, fece esperienza diretta della psicanalisi, ebbe l'impressione di aver scoperto un nuovo modo d'interpretare la realtà. Era vero però solo in parte, infatti già precedentemente aveva indagato sull'uomo risalendo alla sua infanzia, la sua vita familiare e nei traumi della sua formazione.\
+Quando verso gli anni Venti, fece esperienza diretta della psicanalisi, ebbe l'impressione di aver scoperto un nuovo modo d'interpretare la realtà. Era vero però solo in parte, infatti già precedentemente aveva indagato sull'uomo risalendo alla sua infanzia, alla sua vita familiare e ai traumi della sua formazione.\
 Indaga sulla `solitudine`, sul `contrasto con la società` che in lui nascono da eventi remoti che lo hanno condizionato e hanno reso ipersensibile la sua psiche: ha attraversato la [prima][prima-guerra-mondiale] e la [seconda][seconda-guerra-mondiale] guerra mondiale, il [fascismo][fascismo] e l'antisemitismo.
 
 Nonostante il suo pessimismo Saba è un autore che `celebra l'esistenza`. [*Il Canzoniere*][il-canzoniere], per esempio, è il `diario di una vita compiutamente vissuta`, al cui interno si può notare come cambia la sua poetica al cambiare della cultura esterna.
