@@ -19,12 +19,29 @@ Accade spesso che espressioni metaforiche vengano trasformate in situazioni real
 ### *La metamorfosi*
 (1915)
 
-È la storia di un commesso viaggiatore che da un giorno all'altro diventa uno scarafaggio.
+`Gregor Samsa`, è un commesso viaggiatore che mantiene tutta la sua famiglia grazie al suo lavoro.
+
+Ma da un giorno all'altro, `diventa uno scarafaggio`.
+I suoi genitori preoccupati cercano di interagire con lui, ma per tranquillizarli usa la sua voce, non emettendo la sua voce normale. Nel frattempo anche `l'azienda per cui lavora, non vedendolo arrivare, manda un procuratore a casa sua` a controllare. I familiari provano a trattenerlo, ma Gregor apre la porta e fa scappare il procuratore. Il padre lo rispedisce nella sua camera. Con calma riesce a prendere confidenza con il suo nuovo corpo e permette alla sorella di prendersi cura di lui.
+
+A causa della sua trasformazione, `la situazione economica familiare è cambiata drasticamente`, spingendo quindi la famiglia Samsa a far affittare l'appartamento, in modo da ricevere un minimo indispensabile. 
+
+Gli acquirenti vengono a vedere la stanza e sembrano abbastanza compiaciuti, fino a quando non notano la presenza di Gregor, il quale li spaventa e li fa scappare via. Delusi e rammareggiati, i familiari di Kafka non fare altro che essere `delusi da Gregor, il quale decide di non mangiare più e di lasciarsi morire`.
 
 ### *Il processo*
 (1925)
 
-Il protagonista viene arrestato senza ragione e non gli è possibile difendersi né sapere quale sia l'accusa.
+Il protagonista, `Josef K`, è un impiegato bancario. Un giorno, all'improvviso, delle guardie gli piombano in casa, accusandolo di aver commesso un reato. K, sapendo perfettamente di non aver fatto nulla di particolare, è sicurissimo di potersi difendere, ma viene messo all'angolo quando chiede il capo di imputazione. Infatti, `il capo di imputazione non verrà mai specificato all'interno del romanzo`; questo succede perchè le guardie, le quali sono venute ad arrestare K, lo rimproverano di non conoscere neanche le leggi che in teoria, da bravo cittadino, avrebbe dobuto conoscere. 
+
+Viene così chiamato per il primo interrogatorio alla prima udienza. Andando verso il luogo dell'incontro, K si trova in una situazione bizzarra. Infatti `il tribunale non è un edificio normale, ma si rivela essere un strano e del tutto anonimo, inclusa l'aula della sua udienza`, la quale si rivela essere una banale soffitta squallida. K si difende aspramente al processo, accusando il sistema burocratico e sottolineando l'inefficacia dello stesso. Concluso il lungo discorso, se ne torna a casa.
+
+Tornato a casa, Kafka si sente odiato da tutti. Infatti anche i vicini fanno rumore per impedirgli di discutere in modo coerente e coeso.
+
+Sotto consiglio dello zio Leni assume un avvocato, ma col passare degli incontri, K perde sempre di più le speranze, nonostante le varie sedute.
+
+Alla fine, alla vigilia del suo trentunesimo compleanno, K viene arrestato e portato in una caverna, dove verrà accoltellato due volte al cuore.
+
+Questo romanzo è uno dei principali di Kafka, il quale dipinge questa situazione assurda nella quale K si ritrova. Infatti la burocrazia è infangata, impietosa e cieca, non riesce a dare una spiegazione precisa dei reati commessi da Josef e lo fa sentire un inetto, un uomo pietoso e colmo di solitudine.
 
 ### *Il castello*
 (1926)
