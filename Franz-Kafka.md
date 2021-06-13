@@ -26,7 +26,7 @@ I suoi genitori preoccupati cercano di interagire con lui, ma per tranquillizarl
 
 A causa della sua trasformazione, `la situazione economica familiare è cambiata drasticamente`, spingendo quindi la famiglia Samsa a far affittare l'appartamento, in modo da ricevere un minimo indispensabile. 
 
-Gli acquirenti vengono a vedere la stanza e sembrano abbastanza compiaciuti, fino a quando non notano la presenza di Gregor, il quale li spaventa e li fa scappare via. Delusi e rammareggiati, i familiari di Kafka non fare altro che essere `delusi da Gregor, il quale decide di non mangiare più e di lasciarsi morire`.
+Gli acquirenti vengono a vedere la stanza e sembrano abbastanza compiaciuti, fino a quando non notano la presenza di Gregor, il quale li spaventa e li fa scappare via. Delusi e rammareggiati, i familiari di Samsa non fare altro che essere `delusi da Gregor, il quale decide di non mangiare più e di lasciarsi morire`.
 
 ### *Il processo*
 (1925)
